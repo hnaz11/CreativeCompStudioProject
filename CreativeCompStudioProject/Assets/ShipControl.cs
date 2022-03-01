@@ -15,11 +15,10 @@ public class ShipControl : MonoBehaviour
     public static bool isGameActive = true;
     public static int lives = 3;
 
-    void Start(){
-        gameOver.gameObject.SetActive(false);
-        restart.gameObject.SetActive(false);
-    }
-
+    // void Start(){
+    //     gameOver.gameObject.SetActive(false);
+    //     restart.gameObject.SetActive(false);
+    // }
     void Update(){
         // allows for the ship to follow mouse
         Vector2 pos = Camera.main.ScreenToWorldPoint(Input.mousePosition);
