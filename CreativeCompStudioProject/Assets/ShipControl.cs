@@ -20,17 +20,44 @@ public class ShipControl : MonoBehaviour
     //     restart.gameObject.SetActive(false);
     // }
     void Update(){
-        // allows for the ship to follow mouse
-        Vector2 pos = Camera.main.ScreenToWorldPoint(Input.mousePosition);
-        transform.position = pos;
-        // if left click will shoot
-        if(Input.GetMouseButton(0) && Time.time > nextFire){
-            nextFire = Time.time + (1/fireRate);
-            Shoot();
-        }
-        if(lives <= 0){
-            GameOver();
-        }
+        // bool startMoving = false;
+        // if (!startMoving && Input.GetMouseButton(0)) {
+        //     Vector2 pos = Camera.main.ScreenToWorldPoint(Input.mousePosition);
+        //     transform.position = pos;
+        //     startMoving = true;  
+        // }
+        // // if left click will shoot
+        // else if(Input.GetMouseButton(0) && startMoving){
+        //     Vector3 p = new Vector3(Input.mousePosition.x, Input.mousePosition.y, Input.mousePosition.z);
+        //     if (!Input.GetMouseButton(0)) {
+        //         transform.position = p;
+        //         startMoving = false;
+        //     }
+        // }
+            if (Input.GetKeyDown(KeyCode.LeftArrow))
+            {
+                Vector3 position = this.transform.position;
+                position.x--;
+                this.transform.position = position;
+            }
+            if (Input.GetKeyDown(KeyCode.RightArrow))
+            {
+                Vector3 position = this.transform.position;
+                position.x++;
+                this.transform.position = position;
+            }
+            if (Input.GetKeyDown(KeyCode.UpArrow))
+            {
+                Vector3 position = this.transform.position;
+                position.y++;
+                this.transform.position = position;
+            }
+            if (Input.GetKeyDown(KeyCode.DownArrow))
+            {
+                Vector3 position = this.transform.position;
+                position.y--;
+                this.transform.position = position;
+            }
     }
     
     void Shoot(){
