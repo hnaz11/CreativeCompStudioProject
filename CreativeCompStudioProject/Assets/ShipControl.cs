@@ -119,4 +119,9 @@ public class ShipControl : MonoBehaviour
         ScoreScript.scoreValue = 0;
         lives = 3;
     }
+
+    void OnTriggerEnter2D(Collider2D other)
+    {
+        SceneManager.LoadScene(1);
+    }
 }
