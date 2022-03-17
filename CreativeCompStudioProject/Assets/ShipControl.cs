@@ -6,7 +6,7 @@ using UnityEngine.SceneManagement;
 
 public class ShipControl : MonoBehaviour
 {
-    
+    public GameObject player;
     public static bool isTrue = false;
     public static bool isGameActive = true;
 
@@ -44,7 +44,10 @@ public class ShipControl : MonoBehaviour
 
     void OnTriggerEnter2D(Collider2D other)
     {
-        SceneManager.LoadScene(1);
+        //Scene loadScene = SceneManager.GetSceneByBuildIndex(1);
+        SceneManager.LoadScene(2);
+        //SceneManager.MoveGameObjectToScene(player, SceneManager.GetSceneByName("Italy"));
+        //SceneManager.SetActiveScene(loadScene);
         Debug.Log("Trigger enter....");
     }
 }
