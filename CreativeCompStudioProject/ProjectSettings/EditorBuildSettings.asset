@@ -14,4 +14,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Europe.unity
     guid: f7412abb4e100443a92f9ab007ea7cc0
+  - enabled: 1
+    path: Assets/Scenes/Spain.unity
+    guid: 5659d5c8c8f71af459376ff02597a7ba
   m_configObjects: {}
