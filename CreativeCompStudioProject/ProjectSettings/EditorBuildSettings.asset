@@ -17,4 +17,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Spain.unity
     guid: 5659d5c8c8f71af459376ff02597a7ba
+  - enabled: 1
+    path: Assets/Scenes/ItalyBeforeQuiz.unity
+    guid: 884b5c75cb8bea842aef843397a71dc7
   m_configObjects: {}
