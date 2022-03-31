@@ -37,17 +37,14 @@ public class ShipControl : MonoBehaviour
             }
     }
 
-    void OnTriggerExit2D(Collider2D o){
-        //SceneManager.LoadScene(1);
-        Debug.Log("Trigger exit...");
-    }
-
     void OnTriggerEnter2D(Collider2D other)
     {
-        //Scene loadScene = SceneManager.GetSceneByBuildIndex(1);
-        SceneManager.LoadScene(2);
-        //SceneManager.MoveGameObjectToScene(player, SceneManager.GetSceneByName("Italy"));
-        //SceneManager.SetActiveScene(loadScene);
-        Debug.Log("Trigger enter....");
+        // load different countries depending on tag
+        if(other.tag == "Europe"){
+            SceneManager.LoadScene(2);
+        }
+        if(other.tag == "Asia"){
+            SceneManager.LoadScene(5);
+        }
     }
 }
