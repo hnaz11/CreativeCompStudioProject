@@ -1060,21 +1060,24 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   QnA:
-  - Question: 'Which one of these instruments is from Italy? '
+  - Question: "Which one of these instruments is from Italy? (Hint: It\u2019s the
+      instrument you just saw to enter this game!) "
     Answers:
     - Accordion
     - Sitar
     - Piano
     - Flute
     CorrectAnswer: 3
-  - Question: Which one of these famous composers is Italian?
+  - Question: "This food was invented in Naples, Italy. It\u2019s something you can
+      order for takeout and delivery and has many toppings."
     Answers:
-    - Antonio Vivaldi
-    - Johann Sebastian Bach
-    - Joaquin Rodrigo
-    - Pyotr Tchaikovsky
+    - Pizza
+    - Cake
+    - Ice Cream
+    - Tacos
     CorrectAnswer: 1
-  - Question: What is the shape of Italy?
+  - Question: "What is the shape of Italy? (Hint: If you don\u2019t remember, go
+      back to the home page and look at the world map.)"
     Answers:
     - Lamp
     - Octagon
