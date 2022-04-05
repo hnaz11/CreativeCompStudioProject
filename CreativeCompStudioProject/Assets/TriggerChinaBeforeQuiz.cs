@@ -3,11 +3,11 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
-public class TriggerChina : MonoBehaviour
+public class TriggerChinaBeforeQuiz : MonoBehaviour
 {
     void OnTriggerEnter2D(Collider2D other)
     {
-        SceneManager.LoadScene(8);
-        Debug.Log("China loaded....");
+        SceneManager.LoadScene(6);
+        Debug.Log("triggered....");
     }
 }

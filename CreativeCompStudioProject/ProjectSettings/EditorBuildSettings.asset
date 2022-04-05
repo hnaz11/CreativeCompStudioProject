@@ -6,7 +6,7 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
+    path: Assets/Scenes/WorldMap.unity
     guid: 2cda990e2423bbf4892e6590ba056729
   - enabled: 1
     path: Assets/Scenes/Italy.unity
@@ -29,4 +29,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/India.unity
     guid: 3d7b73add8aed4eaeb01f06c56bed365
+  - enabled: 1
+    path: Assets/Scenes/ChinaBeforeQuiz.unity
+    guid: 922b9a29ccd6bc744abbb39a2aa6b8a9
   m_configObjects: {}
