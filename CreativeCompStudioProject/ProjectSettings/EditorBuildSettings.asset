@@ -32,4 +32,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/ChinaBeforeQuiz.unity
     guid: 922b9a29ccd6bc744abbb39a2aa6b8a9
+  - enabled: 1
+    path: Assets/Scenes/SpainBeforeQuiz.unity
+    guid: 76d1f9fd8852c2d4abee1ea79bbba14e
+  - enabled: 1
+    path: Assets/Scenes/IndiaBeforeQuiz.unity
+    guid: 97aa59285a7790f40a55c438ac27282d
   m_configObjects: {}
