@@ -38,4 +38,19 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/IndiaBeforeQuiz.unity
     guid: 97aa59285a7790f40a55c438ac27282d
+  - enabled: 1
+    path: Assets/Scenes/Africa.unity
+    guid: 204f4d208bf9fb146ab1ec0b580cf369
+  - enabled: 1
+    path: Assets/Scenes/AlgeriaBeforeQuiz.unity
+    guid: b93a1f8377f52e74794ad4d77389c9a7
+  - enabled: 1
+    path: Assets/Scenes/Algeria.unity
+    guid: 976f6381721c2eb4f865793b181a2fe3
+  - enabled: 1
+    path: Assets/Scenes/ZimbabweBeforeQuiz.unity
+    guid: 45a9af6cc9226b84d85b77d93da194bd
+  - enabled: 1
+    path: Assets/Scenes/Zimbabwe.unity
+    guid: ead3f46b4ed34a0439910652f45b9026
   m_configObjects: {}
