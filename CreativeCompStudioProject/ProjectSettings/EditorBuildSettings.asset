@@ -53,4 +53,19 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Zimbabwe.unity
     guid: ead3f46b4ed34a0439910652f45b9026
+  - enabled: 1
+    path: Assets/Scenes/GreatPlainsBefore.unity
+    guid: 15bf7f20590974f4ea56f89b252af655
+  - enabled: 1
+    path: Assets/Scenes/GreatPlainsQuiz.unity
+    guid: d82f62f7d97ad41db94219203b340a92
+  - enabled: 1
+    path: Assets/Scenes/NewOrleansBefore.unity
+    guid: 53ac4fa1115b242fdbc9ead4849ce560
+  - enabled: 1
+    path: Assets/Scenes/NewOrleansQuiz.unity
+    guid: 346e7582d14c64848ae016b451130c47
+  - enabled: 1
+    path: Assets/Scenes/NorthAmerica.unity
+    guid: 6c5c949c1dc35471a8f77befa1c76570
   m_configObjects: {}
