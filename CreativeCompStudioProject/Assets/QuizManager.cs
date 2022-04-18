@@ -12,6 +12,7 @@ public class QuizManager : MonoBehaviour
 
     public GameObject Quizpanel;
     public GameObject GameOverPanel;
+    public GameObject CongratsPanel;
     public Text QuestionTxt;
     public Text ScoreTxt;
 
@@ -35,6 +36,12 @@ public class QuizManager : MonoBehaviour
         Quizpanel.SetActive(false);
         GameOverPanel.SetActive(true);
         ScoreTxt.text = score + "/" + totalQuestions;
+        if (score == 3 && GameOverPanel.activeInHierarchy)
+        {
+            Quizpanel.SetActive(false);
+            GameOverPanel.SetActive(false);
+            CongratsPanel.SetActive(true);
+        }
     }
 
     void generateQuestion()
