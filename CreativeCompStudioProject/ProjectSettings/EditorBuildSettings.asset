@@ -68,4 +68,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/NorthAmerica.unity
     guid: 6c5c949c1dc35471a8f77befa1c76570
+  - enabled: 1
+    path: Assets/Scenes/WelcomeScreen.unity
+    guid: 65c50628c01d9924e9fa240410b6ee6e
+  - enabled: 1
+    path: Assets/Scenes/HowToPlay.unity
+    guid: 9979888f7fb0eff4092315f8b15b2d62
   m_configObjects: {}
