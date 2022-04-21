@@ -63,7 +63,7 @@ MonoBehaviour:
   Path: ccstudio/Build/Desktop/Piano.bank
   Name: Piano
   StudioPath: bank:/Piano
-  lastModified: 637861444860000000
+  lastModified: 637861449071618094
   FileSizes:
   - Name: Desktop
     Value: 93056
@@ -989,7 +989,7 @@ MonoBehaviour:
   - {fileID: 8805470677277962952}
   StringsBanks:
   - {fileID: 1512313799940023615}
-  cacheTime: 637861444860000000
+  cacheTime: 637861449071618094
   cacheVersion: 10
 --- !u!114 &64498462735943236
 MonoBehaviour:
@@ -1177,7 +1177,7 @@ MonoBehaviour:
   Path: ccstudio/Build/Desktop/Master.strings.bank
   Name: Master.strings
   StudioPath: bank:/Master.strings
-  lastModified: 637861444860000000
+  lastModified: 637861449061973584
   FileSizes:
   - Name: Desktop
     Value: 3904
@@ -1197,7 +1197,7 @@ MonoBehaviour:
   Path: ccstudio/Build/Desktop/dummy_test.bank
   Name: dummy_test
   StudioPath: bank:/dummy_test
-  lastModified: 637861444860000000
+  lastModified: 637861449061794072
   FileSizes:
   - Name: Desktop
     Value: 494
@@ -1904,7 +1904,7 @@ MonoBehaviour:
   Path: ccstudio/Build/Desktop/Master.bank
   Name: Master
   StudioPath: bank:/Master
-  lastModified: 637861444860000000
+  lastModified: 637861449061883916
   FileSizes:
   - Name: Desktop
     Value: 1036
