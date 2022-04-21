@@ -3,11 +3,7 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags:
-  - Asia
-  - Europe
-  - China
-  - Africa
+  tags: []
   layers:
   - Default
   - TransparentFX
