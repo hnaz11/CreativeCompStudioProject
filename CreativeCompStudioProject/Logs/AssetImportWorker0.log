@@ -1,0 +1,183 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.30f1 (1fb1bf06830e) revision 2077119'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10  (10.0.19043) 64bit Core' Language: 'en' Physical Memory: 8025 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.30f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/Nikita Patel/Desktop/Nikita's Stuff/Spring 2022/CreativeCompStudio/GitHub/CreativeCompStudioProject
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+53699
+Successfully changed project path to: C:/Users/Nikita Patel/Desktop/Nikita's Stuff/Spring 2022/CreativeCompStudio/GitHub/CreativeCompStudioProject
+C:/Users/Nikita Patel/Desktop/Nikita's Stuff/Spring 2022/CreativeCompStudio/GitHub/CreativeCompStudioProject
+Using Asset Import Pipeline V2.
+Multiple plugins with the same name 'fmodstudiol' (found at 'Assets/Plugins/FMOD/platforms/win/lib/x86/fmodstudioL.dll' and 'Assets/Plugins/FMOD/platforms/win/lib/x86_64/fmodstudioL.dll'). That means one or more plugins are set to be compatible with Editor. Only one plugin at the time can be used by Editor.
+Refreshing native plugins compatible for Editor in 245.69 ms, found 5 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.30f1 (1fb1bf06830e)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.30f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/Nikita Patel/Desktop/Nikita's Stuff/Spring 2022/CreativeCompStudio/GitHub/CreativeCompStudioProject/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce 940MX (ID=0x134d)
+    Vendor:   
+    VRAM:     2010 MB
+    Driver:   26.21.14.4114
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.30f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.30f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.30f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56920
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.30f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.009029 seconds.
+Native extension for WindowsStandalone target not found
+Multiple plugins with the same name 'fmodstudiol' (found at 'Assets/Plugins/FMOD/platforms/win/lib/x86/fmodstudioL.dll' and 'Assets/Plugins/FMOD/platforms/win/lib/x86_64/fmodstudioL.dll'). That means one or more plugins are set to be compatible with Editor. Only one plugin at the time can be used by Editor.
+Refreshing native plugins compatible for Editor in 131.38 ms, found 5 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.611 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1612ms)
+		BeginReloadAssembly (255ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (2ms)
+		EndReloadAssembly (1166ms)
+			LoadAssemblies (249ms)
+			RebuildTransferFunctionScriptingTraits (1ms)
+			SetupTypeCache (369ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (73ms)
+			SetupLoadedEditorAssemblies (442ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (10ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (131ms)
+				BeforeProcessingInitializeOnLoad (16ms)
+				ProcessInitializeOnLoadAttributes (215ms)
+				ProcessInitializeOnLoadMethodAttributes (70ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.028870 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Multiple plugins with the same name 'fmodstudiol' (found at 'Assets/Plugins/FMOD/platforms/win/lib/x86/fmodstudioL.dll' and 'Assets/Plugins/FMOD/platforms/win/lib/x86_64/fmodstudioL.dll'). That means one or more plugins are set to be compatible with Editor. Only one plugin at the time can be used by Editor.
+Refreshing native plugins compatible for Editor in 121.70 ms, found 5 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.130 seconds
+Domain Reload Profiling:
+	ReloadAssembly (3132ms)
+		BeginReloadAssembly (412ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (12ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (33ms)
+		EndReloadAssembly (2560ms)
+			LoadAssemblies (402ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (958ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (121ms)
+			SetupLoadedEditorAssemblies (859ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (8ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (122ms)
+				BeforeProcessingInitializeOnLoad (176ms)
+				ProcessInitializeOnLoadAttributes (485ms)
+				ProcessInitializeOnLoadMethodAttributes (48ms)
+				AfterProcessingInitializeOnLoad (18ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (16ms)
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.18 seconds
+Multiple plugins with the same name 'fmodstudiol' (found at 'Assets/Plugins/FMOD/platforms/win/lib/x86/fmodstudioL.dll' and 'Assets/Plugins/FMOD/platforms/win/lib/x86_64/fmodstudioL.dll'). That means one or more plugins are set to be compatible with Editor. Only one plugin at the time can be used by Editor.
+Refreshing native plugins compatible for Editor in 3.07 ms, found 5 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2364 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 102.6 MB.
+System memory in use after: 102.8 MB.
+
+Unloading 65 unused Assets to reduce memory usage. Loaded Objects now: 2763.
+Total: 7.930800 ms (FindLiveObjects: 0.724800 ms CreateObjectMapping: 0.259800 ms MarkObjects: 6.772300 ms  DeleteObjects: 0.171800 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  path: Assets/Scenes/AlgeriaBeforeQuiz.unity
+  artifactKey: Guid(b93a1f8377f52e74794ad4d77389c9a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/AlgeriaBeforeQuiz.unity using Guid(b93a1f8377f52e74794ad4d77389c9a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f9c97a261132abbe3c55b53a7f5eb642') in 0.047623 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 649.565751 seconds.
+  path: Assets/Scenes/ChinaBeforeQuiz.unity
+  artifactKey: Guid(922b9a29ccd6bc744abbb39a2aa6b8a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/ChinaBeforeQuiz.unity using Guid(922b9a29ccd6bc744abbb39a2aa6b8a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd061746e0ee8785bf8b4496bfd3caf18') in 0.025513 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 51.445010 seconds.
+  path: Assets/Scenes/CubaBefore.unity
+  artifactKey: Guid(e990efe3043704f2e856853d50b6ae12) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/CubaBefore.unity using Guid(e990efe3043704f2e856853d50b6ae12) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'afadb553a0e4c2bd90aad1c11247852b') in 0.025156 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 115.881413 seconds.
+  path: Assets/Scenes/IndiaBeforeQuiz.unity
+  artifactKey: Guid(97aa59285a7790f40a55c438ac27282d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/IndiaBeforeQuiz.unity using Guid(97aa59285a7790f40a55c438ac27282d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3e0ecc7fee546ff8e03b6753570822c2') in 0.017815 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 47.805412 seconds.
+  path: Assets/Scenes/ItalyBeforeQuiz.unity
+  artifactKey: Guid(884b5c75cb8bea842aef843397a71dc7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/ItalyBeforeQuiz.unity using Guid(884b5c75cb8bea842aef843397a71dc7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eb863ae9cf647e8b512758e086836745') in 0.030335 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 88.311270 seconds.
+  path: Assets/Scenes/NewOrleansQuiz.unity
+  artifactKey: Guid(346e7582d14c64848ae016b451130c47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/NewOrleansQuiz.unity using Guid(346e7582d14c64848ae016b451130c47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b38d29918c14f62b80f43567c4ad6992') in 0.016190 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 43.909688 seconds.
+  path: Assets/Scenes/PeruBefore.unity
+  artifactKey: Guid(f2dc51a1a7fe740d9b5618116045bff2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/PeruBefore.unity using Guid(f2dc51a1a7fe740d9b5618116045bff2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8f17c6a0157e6f887d8ac1fac3a52f7b') in 0.022381 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 52.866621 seconds.
+  path: Assets/Scenes/SpainBeforeQuiz.unity
+  artifactKey: Guid(76d1f9fd8852c2d4abee1ea79bbba14e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SpainBeforeQuiz.unity using Guid(76d1f9fd8852c2d4abee1ea79bbba14e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '066f1394f896b33f58de4a9c41918578') in 0.013654 seconds 
