@@ -18,6 +18,14 @@ public class QuizManager : MonoBehaviour
 
     public string flute = "FluteWin";
     public string trumpet = "TrumpetWin";
+    public string piano = "PianoWin";
+    public string guitar = "GuitarWin";
+    public string dizi = "DiziWin";
+    public string sitar = "SitarWin";
+    public string clave = "ClaveWin";
+    public string la = "LaWin";
+    public string man = "ManWin";
+    public string kalimba = "KalimbaWin";
 
 
     int totalQuestions = 0;
@@ -29,14 +37,6 @@ public class QuizManager : MonoBehaviour
         totalQuestions = QnA.Count;
         GameOverPanel.SetActive(false);
         generateQuestion();
-        int trumpetWin = PlayerPrefs.GetInt("TrumpetWin");
-        int fluteWin = PlayerPrefs.GetInt("FluteWin");
-        if(trumpetWin == 1 && scene.name == "GreatPlainsQuiz"){
-            PlayerPrefs.SetInt(trumpet,0);
-        }
-        if(trumpetWin == 1 && scene.name == "NewOrleansQuiz"){
-            PlayerPrefs.SetInt(flute,0);
-        }
     }
 
     public void retry()
@@ -56,11 +56,45 @@ public class QuizManager : MonoBehaviour
             Quizpanel.SetActive(false);
             GameOverPanel.SetActive(false);
             CongratsPanel.SetActive(true);
-            if (scene.name == "GreatPlainsQuiz"){
+            if (scene.name == "GreatPlainsQuiz")
+            {
                 PlayerPrefs.SetInt(flute, 1);
             }
-            if (scene.name == "NewOrleansQuiz"){
+            if (scene.name == "NewOrleansQuiz")
+            {
                 PlayerPrefs.SetInt(trumpet, 1);
+            }
+            if (scene.name == "Spain")
+            {
+                PlayerPrefs.SetInt(guitar, 1);
+            }
+            if (scene.name == "Italy")
+            {
+                PlayerPrefs.SetInt(piano, 1);
+            }
+            if (scene.name == "China")
+            {
+                PlayerPrefs.SetInt(dizi, 1);
+            }
+            if (scene.name == "India")
+            {
+                PlayerPrefs.SetInt(sitar, 1);
+            }
+            if (scene.name == "CubaQuiz")
+            {
+                PlayerPrefs.SetInt(clave, 1);
+            }
+            if (scene.name == "PeruQuiz")
+            {
+                PlayerPrefs.SetInt(la, 1);
+            }
+            if (scene.name == "Algeria")
+            {
+                PlayerPrefs.SetInt(man, 1);
+            }
+            if (scene.name == "Zimbabwe")
+            {
+                PlayerPrefs.SetInt(kalimba, 1);
             }
         }
     }

@@ -363,7 +363,6 @@ GameObject:
   - component: {fileID: 1164694206}
   - component: {fileID: 1164694205}
   - component: {fileID: 1164694204}
-  - component: {fileID: 1164694207}
   m_Layer: 5
   m_Name: StartButton
   m_TagString: Untagged
@@ -435,8 +434,8 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 1164694207}
-        m_TargetAssemblyTypeName: TriggerHowToPlay, Assembly-CSharp
+      - m_Target: {fileID: 1615659586}
+        m_TargetAssemblyTypeName: restartgame, Assembly-CSharp
         m_MethodName: OnButtonPress
         m_Mode: 1
         m_Arguments:
@@ -485,18 +484,6 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1164694202}
   m_CullTransparentMesh: 1
---- !u!114 &1164694207
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1164694202}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 0610473453e9d524e923719e3b47d8c7, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!1 &1289541120
 GameObject:
   m_ObjectHideFlags: 0
@@ -597,6 +584,59 @@ Canvas:
   m_SortingLayerID: 0
   m_SortingOrder: 0
   m_TargetDisplay: 0
+--- !u!1 &1615659585
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1615659587}
+  - component: {fileID: 1615659586}
+  m_Layer: 0
+  m_Name: RestartGame
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &1615659586
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1615659585}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b4c834be4069b0940ba5e57a9581edf8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  flute: FluteWin
+  trumpet: TrumpetWin
+  piano: PianoWin
+  guitar: GuitarWin
+  dizi: DiziWin
+  sitar: SitarWin
+  clave: ClaveWin
+  la: LaWin
+  man: ManWin
+  kalimba: KalimbaWin
+--- !u!4 &1615659587
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1615659585}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 657.55194, y: 373.7306, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 3
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &2134168437
 GameObject:
   m_ObjectHideFlags: 0
