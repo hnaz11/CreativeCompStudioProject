@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{c124e0ea-ce8e-470d-a678-28b7b98e4f9f}">
+		<property name="assetPath">
+			<value>Flying-Plane-Sound-Effect.wav</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>19.086802721088436</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{f68a1cd6-e0d4-4b46-8ddb-ab6d82ac74b4}</destination>
+		</relationship>
+	</object>
+</objects>

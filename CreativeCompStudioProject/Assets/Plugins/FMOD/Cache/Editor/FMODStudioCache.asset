@@ -87,7 +87,7 @@ MonoBehaviour:
   Path: ccstudio/Build/Desktop/dummy_test.bank
   Name: dummy_test
   StudioPath: bank:/dummy_test
-  lastModified: 637864985195389491
+  lastModified: 637865022795615221
   FileSizes:
   - Name: Desktop
     Value: 494
@@ -155,7 +155,7 @@ MonoBehaviour:
   Path: ccstudio/Build/Desktop/Master.strings.bank
   Name: Master.strings
   StudioPath: bank:/Master.strings
-  lastModified: 637864985195459299
+  lastModified: 637865022795724916
   FileSizes:
   - Name: Desktop
     Value: 4076
@@ -461,7 +461,7 @@ MonoBehaviour:
   Path: ccstudio/Build/Desktop/Piano.bank
   Name: Piano
   StudioPath: bank:/Piano
-  lastModified: 637864985196662850
+  lastModified: 637865022797368026
   FileSizes:
   - Name: Desktop
     Value: 93056
@@ -529,10 +529,10 @@ MonoBehaviour:
   Path: ccstudio/Build/Desktop/Airplane.bank
   Name: Airplane
   StudioPath: bank:/Airplane
-  lastModified: 637864985197256304
+  lastModified: 637865022803340821
   FileSizes:
   - Name: Desktop
-    Value: 176160
+    Value: 229440
   Exists: 1
 --- !u!114 &-5616389978995485452
 MonoBehaviour:
@@ -1089,7 +1089,7 @@ MonoBehaviour:
   Path: ccstudio/Build/Desktop/Cheer.bank
   Name: Cheer
   StudioPath: bank:/Cheer
-  lastModified: 637864985196972021
+  lastModified: 637865022797687162
   FileSizes:
   - Name: Desktop
     Value: 52064
@@ -1301,7 +1301,7 @@ MonoBehaviour:
   - {fileID: 3027063470659796784}
   StringsBanks:
   - {fileID: -7739869753228092819}
-  cacheTime: 637864985197256304
+  cacheTime: 637865022803340821
   cacheVersion: 10
 --- !u!114 &296252318258421398
 MonoBehaviour:
@@ -1585,7 +1585,7 @@ MonoBehaviour:
   Path: ccstudio/Build/Desktop/Master.bank
   Name: Master
   StudioPath: bank:/Master
-  lastModified: 637864985195429384
+  lastModified: 637865022795685041
   FileSizes:
   - Name: Desktop
     Value: 1036
