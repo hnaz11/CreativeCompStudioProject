@@ -12,7 +12,7 @@ public class AirplaneHowToPlay : MonoBehaviour
     void Start()
     {
         //initial coordinates for airplane are (3.1, 3.1, 0)
-        target = new Vector3(-10, 3.1f, 0);
+        target = new Vector3(-12, 3.1f, 0);
     }
 
     void Update()

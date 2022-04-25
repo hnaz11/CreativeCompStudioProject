@@ -72,33 +72,6 @@ MonoBehaviour:
   IsGlobal: 0
   Labels: []
   Exists: 1
---- !u!114 &-8536131553544408319
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
-  m_Name: event:/a-3
-  m_EditorClassIdentifier: 
-  Path: event:/a-3
-  Guid:
-    Data1: -113576498
-    Data2: 1166711865
-    Data3: -2040723568
-    Data4: 369685098
-  Banks:
-  - {fileID: -6181382784324422971}
-  IsStream: 0
-  Is3D: 0
-  IsOneShot: 1
-  Parameters: []
-  MinDistance: 1
-  MaxDistance: 20
-  Length: 0
 --- !u!114 &-8313657953195768245
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -114,7 +87,7 @@ MonoBehaviour:
   Path: ccstudio/Build/Desktop/dummy_test.bank
   Name: dummy_test
   StudioPath: bank:/dummy_test
-  lastModified: 637861449061794072
+  lastModified: 637864985195389491
   FileSizes:
   - Name: Desktop
     Value: 494
@@ -182,10 +155,10 @@ MonoBehaviour:
   Path: ccstudio/Build/Desktop/Master.strings.bank
   Name: Master.strings
   StudioPath: bank:/Master.strings
-  lastModified: 637861449061973584
+  lastModified: 637864985195459299
   FileSizes:
   - Name: Desktop
-    Value: 3904
+    Value: 4076
   Exists: 1
 --- !u!114 &-7445578896943739395
 MonoBehaviour:
@@ -398,6 +371,33 @@ MonoBehaviour:
   IsGlobal: 0
   Labels: []
   Exists: 1
+--- !u!114 &-7032525968691907138
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/A-3
+  m_EditorClassIdentifier: 
+  Path: event:/A-3
+  Guid:
+    Data1: -113576498
+    Data2: 1166711865
+    Data3: -2040723568
+    Data4: 369685098
+  Banks:
+  - {fileID: -6181382784324422971}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
 --- !u!114 &-6875869764844899205
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -461,7 +461,7 @@ MonoBehaviour:
   Path: ccstudio/Build/Desktop/Piano.bank
   Name: Piano
   StudioPath: bank:/Piano
-  lastModified: 637861449071618094
+  lastModified: 637864985196662850
   FileSizes:
   - Name: Desktop
     Value: 93056
@@ -513,6 +513,26 @@ MonoBehaviour:
   Type: 1
   IsGlobal: 0
   Labels: []
+  Exists: 1
+--- !u!114 &-5903510559731514514
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Airplane.bank
+  m_EditorClassIdentifier: 
+  Path: ccstudio/Build/Desktop/Airplane.bank
+  Name: Airplane
+  StudioPath: bank:/Airplane
+  lastModified: 637864985197256304
+  FileSizes:
+  - Name: Desktop
+    Value: 176160
   Exists: 1
 --- !u!114 &-5616389978995485452
 MonoBehaviour:
@@ -901,6 +921,60 @@ MonoBehaviour:
   IsGlobal: 0
   Labels: []
   Exists: 1
+--- !u!114 &-3585893515486759556
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Airplane
+  m_EditorClassIdentifier: 
+  Path: event:/Airplane
+  Guid:
+    Data1: -372438864
+    Data2: 1153347582
+    Data3: -928627282
+    Data4: -29565913
+  Banks:
+  - {fileID: -5903510559731514514}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
+--- !u!114 &-3571239858708135408
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/C-4
+  m_EditorClassIdentifier: 
+  Path: event:/C-4
+  Guid:
+    Data1: 924319209
+    Data2: 1281392181
+    Data3: -1581272448
+    Data4: 1262151535
+  Banks:
+  - {fileID: -6181382784324422971}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
 --- !u!114 &-3540166394667785654
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -999,6 +1073,26 @@ MonoBehaviour:
   Type: 1
   IsGlobal: 0
   Labels: []
+  Exists: 1
+--- !u!114 &-2793824364026029412
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Cheer.bank
+  m_EditorClassIdentifier: 
+  Path: ccstudio/Build/Desktop/Cheer.bank
+  Name: Cheer
+  StudioPath: bank:/Cheer
+  lastModified: 637864985196972021
+  FileSizes:
+  - Name: Desktop
+    Value: 52064
   Exists: 1
 --- !u!114 &-1822670211675325834
 MonoBehaviour:
@@ -1188,22 +1282,26 @@ MonoBehaviour:
   - {fileID: -8313657953195768245}
   - {fileID: 3027063470659796784}
   - {fileID: -6181382784324422971}
+  - {fileID: -2793824364026029412}
+  - {fileID: -5903510559731514514}
   EditorEvents:
   - {fileID: -1317161283376863578}
   - {fileID: -3440471823985195199}
   - {fileID: -4627973602837498562}
   - {fileID: 5568171281460714997}
-  - {fileID: 2837237806102794104}
-  - {fileID: -8536131553544408319}
   - {fileID: 6515731846180018126}
-  - {fileID: 7572299074926970859}
   - {fileID: -7246131495782631718}
+  - {fileID: 6510002559836652530}
+  - {fileID: 2692762432857892824}
+  - {fileID: -3571239858708135408}
+  - {fileID: -3585893515486759556}
+  - {fileID: -7032525968691907138}
   EditorParameters: []
   MasterBanks:
   - {fileID: 3027063470659796784}
   StringsBanks:
   - {fileID: -7739869753228092819}
-  cacheTime: 637861449071618094
+  cacheTime: 637864985197256304
   cacheVersion: 10
 --- !u!114 &296252318258421398
 MonoBehaviour:
@@ -1421,7 +1519,7 @@ MonoBehaviour:
   IsGlobal: 0
   Labels: []
   Exists: 1
---- !u!114 &2837237806102794104
+--- !u!114 &2692762432857892824
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -1431,9 +1529,9 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
-  m_Name: event:/c-3
+  m_Name: event:/C-3
   m_EditorClassIdentifier: 
-  Path: event:/c-3
+  Path: event:/C-3
   Guid:
     Data1: 1451380135
     Data2: 1327846959
@@ -1487,7 +1585,7 @@ MonoBehaviour:
   Path: ccstudio/Build/Desktop/Master.bank
   Name: Master
   StudioPath: bank:/Master
-  lastModified: 637861449061883916
+  lastModified: 637864985195429384
   FileSizes:
   - Name: Desktop
     Value: 1036
@@ -1663,6 +1761,33 @@ MonoBehaviour:
   IsGlobal: 0
   Labels: []
   Exists: 1
+--- !u!114 &6510002559836652530
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Cheer
+  m_EditorClassIdentifier: 
+  Path: event:/Cheer
+  Guid:
+    Data1: 1479215118
+    Data2: 1182403734
+    Data3: 346462637
+    Data4: 1726714699
+  Banks:
+  - {fileID: -2793824364026029412}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
 --- !u!114 &6515731846180018126
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1786,33 +1911,6 @@ MonoBehaviour:
   IsGlobal: 0
   Labels: []
   Exists: 1
---- !u!114 &7572299074926970859
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
-  m_Name: event:/c-4
-  m_EditorClassIdentifier: 
-  Path: event:/c-4
-  Guid:
-    Data1: 924319209
-    Data2: 1281392181
-    Data3: -1581272448
-    Data4: 1262151535
-  Banks:
-  - {fileID: -6181382784324422971}
-  IsStream: 0
-  Is3D: 0
-  IsOneShot: 1
-  Parameters: []
-  MinDistance: 1
-  MaxDistance: 20
-  Length: 0
 --- !u!114 &7873219283957258381
 MonoBehaviour:
   m_ObjectHideFlags: 0
