@@ -501,6 +501,7 @@ MonoBehaviour:
   - Airplane
   - Cheer
   - dummy_test
+  - Guitar
   - Piano
   BanksToLoad: []
   LiveUpdatePort: 9264

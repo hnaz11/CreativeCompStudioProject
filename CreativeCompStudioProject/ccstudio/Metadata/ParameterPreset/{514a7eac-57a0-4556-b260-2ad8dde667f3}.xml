@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="ParameterPreset" id="{514a7eac-57a0-4556-b260-2ad8dde667f3}">
+		<property name="name">
+			<value>Amin 4 Active</value>
+		</property>
+		<relationship name="folder">
+			<destination>{c8af1656-9543-490d-9f92-71fa3c25838b}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{c0bee491-ac33-4666-bdc4-905575f68c8c}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{c0bee491-ac33-4666-bdc4-905575f68c8c}">
+		<property name="parameterType">
+			<value>1</value>
+		</property>
+		<property name="maximum">
+			<value>2</value>
+		</property>
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+	</object>
+</objects>

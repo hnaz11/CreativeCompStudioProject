@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="ParameterPreset" id="{c374dab5-c48f-4aba-a4d0-bab6e1a40eb2}">
+		<property name="name">
+			<value>Emin 3 Active</value>
+		</property>
+		<relationship name="folder">
+			<destination>{c8af1656-9543-490d-9f92-71fa3c25838b}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{40736f89-1eab-416a-8473-5a837880b595}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{40736f89-1eab-416a-8473-5a837880b595}">
+		<property name="parameterType">
+			<value>1</value>
+		</property>
+		<property name="maximum">
+			<value>2</value>
+		</property>
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+	</object>
+</objects>

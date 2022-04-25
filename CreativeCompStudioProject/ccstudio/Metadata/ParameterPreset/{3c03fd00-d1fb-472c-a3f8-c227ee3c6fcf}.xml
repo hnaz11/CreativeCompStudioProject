@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="ParameterPreset" id="{3c03fd00-d1fb-472c-a3f8-c227ee3c6fcf}">
+		<property name="name">
+			<value>Cmaj 1 Active</value>
+		</property>
+		<relationship name="folder">
+			<destination>{c8af1656-9543-490d-9f92-71fa3c25838b}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{df83704b-59c1-4002-96e9-ded92e268bc4}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{df83704b-59c1-4002-96e9-ded92e268bc4}">
+		<property name="parameterType">
+			<value>1</value>
+		</property>
+		<property name="maximum">
+			<value>2</value>
+		</property>
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+	</object>
+</objects>

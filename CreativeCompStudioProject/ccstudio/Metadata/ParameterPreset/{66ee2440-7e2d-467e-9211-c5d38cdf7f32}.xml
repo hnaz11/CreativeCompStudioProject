@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="ParameterPreset" id="{66ee2440-7e2d-467e-9211-c5d38cdf7f32}">
+		<property name="name">
+			<value>Bdim 1 Active</value>
+		</property>
+		<relationship name="folder">
+			<destination>{c8af1656-9543-490d-9f92-71fa3c25838b}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{2e594cd0-b1e1-43a8-aba9-060549e64138}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{2e594cd0-b1e1-43a8-aba9-060549e64138}">
+		<property name="parameterType">
+			<value>1</value>
+		</property>
+		<property name="maximum">
+			<value>2</value>
+		</property>
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+	</object>
+</objects>

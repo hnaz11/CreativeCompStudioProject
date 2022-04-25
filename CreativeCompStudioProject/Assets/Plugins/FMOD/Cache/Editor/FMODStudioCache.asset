@@ -87,7 +87,7 @@ MonoBehaviour:
   Path: ccstudio/Build/Desktop/dummy_test.bank
   Name: dummy_test
   StudioPath: bank:/dummy_test
-  lastModified: 637865022795615221
+  lastModified: 637864899851701819
   FileSizes:
   - Name: Desktop
     Value: 494
@@ -140,6 +140,30 @@ MonoBehaviour:
   IsGlobal: 0
   Labels: []
   Exists: 1
+--- !u!114 &-7859784253345382774
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Piano Roll/Dmin 2 Active
+  m_EditorClassIdentifier: 
+  Name: Dmin 2 Active
+  StudioPath: 
+  Min: 0
+  Max: 1
+  Default: 0
+  ID:
+    data1: 3842438082
+    data2: 328585782
+  Type: 1
+  IsGlobal: 0
+  Labels: []
+  Exists: 1
 --- !u!114 &-7739869753228092819
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -155,10 +179,10 @@ MonoBehaviour:
   Path: ccstudio/Build/Desktop/Master.strings.bank
   Name: Master.strings
   StudioPath: bank:/Master.strings
-  lastModified: 637865022795724916
+  lastModified: 637864899851772772
   FileSizes:
   - Name: Desktop
-    Value: 4076
+    Value: 5230
   Exists: 1
 --- !u!114 &-7445578896943739395
 MonoBehaviour:
@@ -344,9 +368,61 @@ MonoBehaviour:
   - {fileID: -3540166394667785654}
   - {fileID: -5050024120770836280}
   - {fileID: 5325667358218926285}
+  - {fileID: 5192556401310533639}
+  - {fileID: 6982139314395247252}
+  - {fileID: 5607794053507410910}
+  - {fileID: 6394512928943623711}
+  - {fileID: -7859784253345382774}
+  - {fileID: -2918238100498743227}
+  - {fileID: 5561805280740039318}
+  - {fileID: -6333775010344414241}
+  - {fileID: -7219243673217108810}
+  - {fileID: -6927470218489994843}
+  - {fileID: 5667234068539783183}
+  - {fileID: 7990378031607790168}
+  - {fileID: 2436331914024482008}
+  - {fileID: -4043805232394440743}
+  - {fileID: 8437497150435796967}
+  - {fileID: 6690010472929211096}
+  - {fileID: 8367628289760314049}
+  - {fileID: 4851508197879637730}
+  - {fileID: 3558010006920991610}
+  - {fileID: -1803161162800364536}
+  - {fileID: 3664725805584926946}
+  - {fileID: 7104201262606712721}
+  - {fileID: 3281223459577911573}
+  - {fileID: 2050130357592756683}
+  - {fileID: -1930926064061565924}
+  - {fileID: 267189940949068430}
+  - {fileID: -4976081512595190743}
+  - {fileID: -4038180589784051031}
   MinDistance: 1
   MaxDistance: 20
   Length: 4000
+--- !u!114 &-7219243673217108810
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Piano Roll/Amin 4 Active
+  m_EditorClassIdentifier: 
+  Name: Amin 4 Active
+  StudioPath: 
+  Min: 0
+  Max: 1
+  Default: 0
+  ID:
+    data1: 2652786003
+    data2: 1122658850
+  Type: 1
+  IsGlobal: 0
+  Labels: []
+  Exists: 1
 --- !u!114 &-7139702021801706470
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -371,7 +447,7 @@ MonoBehaviour:
   IsGlobal: 0
   Labels: []
   Exists: 1
---- !u!114 &-7032525968691907138
+--- !u!114 &-6927470218489994843
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -380,24 +456,21 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
-  m_Name: event:/A-3
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Piano Roll/Cmaj 3 Active
   m_EditorClassIdentifier: 
-  Path: event:/A-3
-  Guid:
-    Data1: -113576498
-    Data2: 1166711865
-    Data3: -2040723568
-    Data4: 369685098
-  Banks:
-  - {fileID: -6181382784324422971}
-  IsStream: 0
-  Is3D: 0
-  IsOneShot: 1
-  Parameters: []
-  MinDistance: 1
-  MaxDistance: 20
-  Length: 0
+  Name: Cmaj 3 Active
+  StudioPath: 
+  Min: 0
+  Max: 1
+  Default: 0
+  ID:
+    data1: 3215555951
+    data2: 3414272942
+  Type: 1
+  IsGlobal: 0
+  Labels: []
+  Exists: 1
 --- !u!114 &-6875869764844899205
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -418,6 +491,30 @@ MonoBehaviour:
   ID:
     data1: 1847080791
     data2: 1629020772
+  Type: 1
+  IsGlobal: 0
+  Labels: []
+  Exists: 1
+--- !u!114 &-6333775010344414241
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Piano Roll/Bdim 3 Active
+  m_EditorClassIdentifier: 
+  Name: Bdim 3 Active
+  StudioPath: 
+  Min: 0
+  Max: 1
+  Default: 0
+  ID:
+    data1: 929751216
+    data2: 133629406
   Type: 1
   IsGlobal: 0
   Labels: []
@@ -461,10 +558,10 @@ MonoBehaviour:
   Path: ccstudio/Build/Desktop/Piano.bank
   Name: Piano
   StudioPath: bank:/Piano
-  lastModified: 637865022797368026
+  lastModified: 637864899856536851
   FileSizes:
   - Name: Desktop
-    Value: 93056
+    Value: 269504
   Exists: 1
 --- !u!114 &-6068900132792592064
 MonoBehaviour:
@@ -726,6 +823,30 @@ MonoBehaviour:
   IsGlobal: 0
   Labels: []
   Exists: 1
+--- !u!114 &-4976081512595190743
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Piano Roll/Dmin 1 Active
+  m_EditorClassIdentifier: 
+  Name: Dmin 1 Active
+  StudioPath: 
+  Min: 0
+  Max: 1
+  Default: 0
+  ID:
+    data1: 1788527317
+    data2: 1687133177
+  Type: 1
+  IsGlobal: 0
+  Labels: []
+  Exists: 1
 --- !u!114 &-4758475583444036292
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -845,6 +966,54 @@ MonoBehaviour:
   ID:
     data1: 1218405900
     data2: 3953538718
+  Type: 1
+  IsGlobal: 0
+  Labels: []
+  Exists: 1
+--- !u!114 &-4043805232394440743
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Piano Roll/Amin 2 Active
+  m_EditorClassIdentifier: 
+  Name: Amin 2 Active
+  StudioPath: 
+  Min: 0
+  Max: 1
+  Default: 0
+  ID:
+    data1: 2123433854
+    data2: 299335300
+  Type: 1
+  IsGlobal: 0
+  Labels: []
+  Exists: 1
+--- !u!114 &-4038180589784051031
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Piano Roll/Emin 1 Active
+  m_EditorClassIdentifier: 
+  Name: Emin 1 Active
+  StudioPath: 
+  Min: 0
+  Max: 1
+  Default: 0
+  ID:
+    data1: 4135567550
+    data2: 2988374740
   Type: 1
   IsGlobal: 0
   Labels: []
@@ -1050,6 +1219,30 @@ MonoBehaviour:
   IsGlobal: 0
   Labels: []
   Exists: 1
+--- !u!114 &-2918238100498743227
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Piano Roll/Gmaj 3 Active
+  m_EditorClassIdentifier: 
+  Name: Gmaj 3 Active
+  StudioPath: 
+  Min: 0
+  Max: 1
+  Default: 0
+  ID:
+    data1: 1400707325
+    data2: 1494909559
+  Type: 1
+  IsGlobal: 0
+  Labels: []
+  Exists: 1
 --- !u!114 &-2796686570684166899
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1074,7 +1267,7 @@ MonoBehaviour:
   IsGlobal: 0
   Labels: []
   Exists: 1
---- !u!114 &-2793824364026029412
+--- !u!114 &-1930926064061565924
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -1083,16 +1276,20 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
-  m_Name: bank:/Cheer.bank
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Piano Roll/Cmaj 2 Active
   m_EditorClassIdentifier: 
-  Path: ccstudio/Build/Desktop/Cheer.bank
-  Name: Cheer
-  StudioPath: bank:/Cheer
-  lastModified: 637865022797687162
-  FileSizes:
-  - Name: Desktop
-    Value: 52064
+  Name: Cmaj 2 Active
+  StudioPath: 
+  Min: 0
+  Max: 1
+  Default: 0
+  ID:
+    data1: 1175572043
+    data2: 2490414023
+  Type: 1
+  IsGlobal: 0
+  Labels: []
   Exists: 1
 --- !u!114 &-1822670211675325834
 MonoBehaviour:
@@ -1114,6 +1311,30 @@ MonoBehaviour:
   ID:
     data1: 22336893
     data2: 3483239137
+  Type: 1
+  IsGlobal: 0
+  Labels: []
+  Exists: 1
+--- !u!114 &-1803161162800364536
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Piano Roll/Fmaj 2 Active
+  m_EditorClassIdentifier: 
+  Name: Fmaj 2 Active
+  StudioPath: 
+  Min: 0
+  Max: 1
+  Default: 0
+  ID:
+    data1: 2475054378
+    data2: 198639033
   Type: 1
   IsGlobal: 0
   Labels: []
@@ -1282,8 +1503,7 @@ MonoBehaviour:
   - {fileID: -8313657953195768245}
   - {fileID: 3027063470659796784}
   - {fileID: -6181382784324422971}
-  - {fileID: -2793824364026029412}
-  - {fileID: -5903510559731514514}
+  - {fileID: 2998851964694504178}
   EditorEvents:
   - {fileID: -1317161283376863578}
   - {fileID: -3440471823985195199}
@@ -1301,8 +1521,32 @@ MonoBehaviour:
   - {fileID: 3027063470659796784}
   StringsBanks:
   - {fileID: -7739869753228092819}
-  cacheTime: 637865022803340821
+  cacheTime: 637864899856536851
   cacheVersion: 10
+--- !u!114 &267189940949068430
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Piano Roll/Emin 2 Active
+  m_EditorClassIdentifier: 
+  Name: Emin 2 Active
+  StudioPath: 
+  Min: 0
+  Max: 1
+  Default: 0
+  ID:
+    data1: 3890275037
+    data2: 589734213
+  Type: 1
+  IsGlobal: 0
+  Labels: []
+  Exists: 1
 --- !u!114 &296252318258421398
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1447,6 +1691,30 @@ MonoBehaviour:
   IsGlobal: 0
   Labels: []
   Exists: 1
+--- !u!114 &2050130357592756683
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Piano Roll/Gmaj 4 Active
+  m_EditorClassIdentifier: 
+  Name: Gmaj 4 Active
+  StudioPath: 
+  Min: 0
+  Max: 1
+  Default: 0
+  ID:
+    data1: 1392742484
+    data2: 2268728497
+  Type: 1
+  IsGlobal: 0
+  Labels: []
+  Exists: 1
 --- !u!114 &2286384322053711948
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1491,6 +1759,30 @@ MonoBehaviour:
   ID:
     data1: 4095313787
     data2: 2524956428
+  Type: 1
+  IsGlobal: 0
+  Labels: []
+  Exists: 1
+--- !u!114 &2436331914024482008
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Piano Roll/Amin 3 Active
+  m_EditorClassIdentifier: 
+  Name: Amin 3 Active
+  StudioPath: 
+  Min: 0
+  Max: 1
+  Default: 0
+  ID:
+    data1: 3507521021
+    data2: 4165431042
   Type: 1
   IsGlobal: 0
   Labels: []
@@ -1570,6 +1862,26 @@ MonoBehaviour:
   IsGlobal: 0
   Labels: []
   Exists: 1
+--- !u!114 &2998851964694504178
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Guitar.bank
+  m_EditorClassIdentifier: 
+  Path: ccstudio/Build/Desktop/Guitar.bank
+  Name: Guitar
+  StudioPath: bank:/Guitar
+  lastModified: 637864899851722027
+  FileSizes:
+  - Name: Desktop
+    Value: 494
+  Exists: 1
 --- !u!114 &3027063470659796784
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1585,10 +1897,82 @@ MonoBehaviour:
   Path: ccstudio/Build/Desktop/Master.bank
   Name: Master
   StudioPath: bank:/Master
-  lastModified: 637865022795685041
+  lastModified: 637864899851743488
   FileSizes:
   - Name: Desktop
     Value: 1036
+  Exists: 1
+--- !u!114 &3281223459577911573
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Piano Roll/Cmaj 4 Active
+  m_EditorClassIdentifier: 
+  Name: Cmaj 4 Active
+  StudioPath: 
+  Min: 0
+  Max: 1
+  Default: 0
+  ID:
+    data1: 801445778
+    data2: 3283568382
+  Type: 1
+  IsGlobal: 0
+  Labels: []
+  Exists: 1
+--- !u!114 &3558010006920991610
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Piano Roll/Fmaj 4 Active
+  m_EditorClassIdentifier: 
+  Name: Fmaj 4 Active
+  StudioPath: 
+  Min: 0
+  Max: 1
+  Default: 0
+  ID:
+    data1: 1281192029
+    data2: 2935538019
+  Type: 1
+  IsGlobal: 0
+  Labels: []
+  Exists: 1
+--- !u!114 &3664725805584926946
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Piano Roll/Gmaj 1 Active
+  m_EditorClassIdentifier: 
+  Name: Gmaj 1 Active
+  StudioPath: 
+  Min: 0
+  Max: 1
+  Default: 0
+  ID:
+    data1: 2533590325
+    data2: 2526996990
+  Type: 1
+  IsGlobal: 0
+  Labels: []
   Exists: 1
 --- !u!114 &4240806126929256734
 MonoBehaviour:
@@ -1610,6 +1994,54 @@ MonoBehaviour:
   ID:
     data1: 3266370912
     data2: 1549461475
+  Type: 1
+  IsGlobal: 0
+  Labels: []
+  Exists: 1
+--- !u!114 &4851508197879637730
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Piano Roll/Cmaj 1 Active
+  m_EditorClassIdentifier: 
+  Name: Cmaj 1 Active
+  StudioPath: 
+  Min: 0
+  Max: 1
+  Default: 0
+  ID:
+    data1: 3661300137
+    data2: 979270655
+  Type: 1
+  IsGlobal: 0
+  Labels: []
+  Exists: 1
+--- !u!114 &5192556401310533639
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Piano Roll/Gmaj 2 Active
+  m_EditorClassIdentifier: 
+  Name: Gmaj 2 Active
+  StudioPath: 
+  Min: 0
+  Max: 1
+  Default: 0
+  ID:
+    data1: 934273754
+    data2: 1906725574
   Type: 1
   IsGlobal: 0
   Labels: []
@@ -1686,6 +2118,30 @@ MonoBehaviour:
   IsGlobal: 0
   Labels: []
   Exists: 1
+--- !u!114 &5561805280740039318
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Piano Roll/Emin 3 Active
+  m_EditorClassIdentifier: 
+  Name: Emin 3 Active
+  StudioPath: 
+  Min: 0
+  Max: 1
+  Default: 0
+  ID:
+    data1: 3613768174
+    data2: 1433674107
+  Type: 1
+  IsGlobal: 0
+  Labels: []
+  Exists: 1
 --- !u!114 &5568171281460714997
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1713,6 +2169,54 @@ MonoBehaviour:
   MinDistance: 1
   MaxDistance: 20
   Length: 0
+--- !u!114 &5607794053507410910
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Piano Roll/Dmin 3 Active
+  m_EditorClassIdentifier: 
+  Name: Dmin 3 Active
+  StudioPath: 
+  Min: 0
+  Max: 1
+  Default: 0
+  ID:
+    data1: 2986727715
+    data2: 3031957493
+  Type: 1
+  IsGlobal: 0
+  Labels: []
+  Exists: 1
+--- !u!114 &5667234068539783183
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: 'parameter:/Piano Roll/Bdim 4 Active '
+  m_EditorClassIdentifier: 
+  Name: 'Bdim 4 Active '
+  StudioPath: 
+  Min: 0
+  Max: 1
+  Default: 0
+  ID:
+    data1: 3141301221
+    data2: 550922030
+  Type: 1
+  IsGlobal: 0
+  Labels: []
+  Exists: 1
 --- !u!114 &6098620986299720917
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1733,6 +2237,30 @@ MonoBehaviour:
   ID:
     data1: 2712887180
     data2: 115078494
+  Type: 1
+  IsGlobal: 0
+  Labels: []
+  Exists: 1
+--- !u!114 &6394512928943623711
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Piano Roll/Bdim 1 Active
+  m_EditorClassIdentifier: 
+  Name: Bdim 1 Active
+  StudioPath: 
+  Min: 0
+  Max: 1
+  Default: 0
+  ID:
+    data1: 1736498211
+    data2: 904012642
   Type: 1
   IsGlobal: 0
   Labels: []
@@ -1863,6 +2391,30 @@ MonoBehaviour:
   IsGlobal: 0
   Labels: []
   Exists: 1
+--- !u!114 &6690010472929211096
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Piano Roll/Dmin 4 Active
+  m_EditorClassIdentifier: 
+  Name: Dmin 4 Active
+  StudioPath: 
+  Min: 0
+  Max: 1
+  Default: 0
+  ID:
+    data1: 1955391335
+    data2: 906504484
+  Type: 1
+  IsGlobal: 0
+  Labels: []
+  Exists: 1
 --- !u!114 &6827858074705511910
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1883,6 +2435,54 @@ MonoBehaviour:
   ID:
     data1: 3519285888
     data2: 1696490886
+  Type: 1
+  IsGlobal: 0
+  Labels: []
+  Exists: 1
+--- !u!114 &6982139314395247252
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Piano Roll/Fmaj 1 Active
+  m_EditorClassIdentifier: 
+  Name: Fmaj 1 Active
+  StudioPath: 
+  Min: 0
+  Max: 1
+  Default: 0
+  ID:
+    data1: 580478804
+    data2: 3830106430
+  Type: 1
+  IsGlobal: 0
+  Labels: []
+  Exists: 1
+--- !u!114 &7104201262606712721
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Piano Roll/Fmaj 3 Active
+  m_EditorClassIdentifier: 
+  Name: Fmaj 3 Active
+  StudioPath: 
+  Min: 0
+  Max: 1
+  Default: 0
+  ID:
+    data1: 2299372810
+    data2: 3266046257
   Type: 1
   IsGlobal: 0
   Labels: []
@@ -1935,6 +2535,30 @@ MonoBehaviour:
   IsGlobal: 0
   Labels: []
   Exists: 1
+--- !u!114 &7990378031607790168
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Piano Roll/Emin 4 Active
+  m_EditorClassIdentifier: 
+  Name: Emin 4 Active
+  StudioPath: 
+  Min: 0
+  Max: 1
+  Default: 0
+  ID:
+    data1: 2441158978
+    data2: 816860621
+  Type: 1
+  IsGlobal: 0
+  Labels: []
+  Exists: 1
 --- !u!114 &8118904636723381330
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1959,6 +2583,30 @@ MonoBehaviour:
   IsGlobal: 0
   Labels: []
   Exists: 1
+--- !u!114 &8367628289760314049
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Piano Roll/Amin 1 Active
+  m_EditorClassIdentifier: 
+  Name: Amin 1 Active
+  StudioPath: 
+  Min: 0
+  Max: 1
+  Default: 0
+  ID:
+    data1: 450123997
+    data2: 3995038984
+  Type: 1
+  IsGlobal: 0
+  Labels: []
+  Exists: 1
 --- !u!114 &8391818699909837433
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1979,6 +2627,30 @@ MonoBehaviour:
   ID:
     data1: 641691589
     data2: 2371958965
+  Type: 1
+  IsGlobal: 0
+  Labels: []
+  Exists: 1
+--- !u!114 &8437497150435796967
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Piano Roll/Bdim 2 Active
+  m_EditorClassIdentifier: 
+  Name: Bdim 2 Active
+  StudioPath: 
+  Min: 0
+  Max: 1
+  Default: 0
+  ID:
+    data1: 3432576448
+    data2: 2956363961
   Type: 1
   IsGlobal: 0
   Labels: []

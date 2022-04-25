@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="ParameterPreset" id="{4c955b1c-ad1e-4e42-b7c5-89a9c19a784f}">
+		<property name="name">
+			<value>Gmaj 2 Active</value>
+		</property>
+		<relationship name="folder">
+			<destination>{c8af1656-9543-490d-9f92-71fa3c25838b}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{1c1edfed-acd9-43f5-9286-cb53f6d2d424}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{1c1edfed-acd9-43f5-9286-cb53f6d2d424}">
+		<property name="parameterType">
+			<value>1</value>
+		</property>
+		<property name="maximum">
+			<value>2</value>
+		</property>
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+	</object>
+</objects>

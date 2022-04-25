@@ -10,6 +10,7 @@ TagManager:
   - Africa
   - isEnabled
   - isDisabled
+  - Guitar
   layers:
   - Default
   - TransparentFX
