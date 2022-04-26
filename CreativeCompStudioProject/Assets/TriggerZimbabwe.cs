@@ -7,7 +7,6 @@ public class TriggerZimbabwe : MonoBehaviour
 {
     void OnTriggerEnter2D(Collider2D other)
     {
-        SceneManager.LoadScene(14);
-        Debug.Log("Algeria loaded...");
+        SceneManager.LoadScene(15);
     }
 }

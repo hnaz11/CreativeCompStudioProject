@@ -7,6 +7,6 @@ public class GoToEurope : MonoBehaviour
 {
     void OnTriggerEnter2D(Collider2D other)
     {
-        SceneManager.LoadScene(4);
+        SceneManager.LoadScene(5);
     }
 }

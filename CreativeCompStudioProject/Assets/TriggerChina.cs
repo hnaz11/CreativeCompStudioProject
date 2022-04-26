@@ -7,7 +7,7 @@ public class TriggerChina : MonoBehaviour
 {
     void OnTriggerEnter2D(Collider2D other)
     {
-        SceneManager.LoadScene(8);
+        SceneManager.LoadScene(9);
         Debug.Log("China loaded....");
     }
 }

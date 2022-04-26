@@ -7,7 +7,7 @@ public class TriggerAsia : MonoBehaviour
 {
     void OnTriggerEnter2D(Collider2D other)
     {
-        SceneManager.LoadScene(5);
+        SceneManager.LoadScene(6);
         Debug.Log("Asia loaded...");
     }
 }

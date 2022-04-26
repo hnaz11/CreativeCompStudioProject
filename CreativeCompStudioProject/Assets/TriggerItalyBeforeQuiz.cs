@@ -7,7 +7,7 @@ public class TriggerItalyBeforeQuiz : MonoBehaviour
 {
     void OnTriggerEnter2D(Collider2D other)
     {
-        SceneManager.LoadScene(1);
+        SceneManager.LoadScene(2);
         Debug.Log("triggered....");
     }
 }

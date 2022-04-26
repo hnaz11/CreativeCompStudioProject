@@ -7,7 +7,6 @@ public class TriggerIndiaBeforeQuiz : MonoBehaviour
 {
     void OnTriggerEnter2D(Collider2D other)
     {
-        SceneManager.LoadScene(7);
-        Debug.Log("triggered....");
+        SceneManager.LoadScene(8);
     }
 }

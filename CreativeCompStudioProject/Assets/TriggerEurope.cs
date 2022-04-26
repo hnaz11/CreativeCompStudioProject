@@ -7,7 +7,7 @@ public class TriggerEurope : MonoBehaviour
 {
     void OnTriggerEnter2D(Collider2D other)
     {
-        SceneManager.LoadScene(2);
+        SceneManager.LoadScene(3);
         Debug.Log("Europe loaded...");
     }
 }

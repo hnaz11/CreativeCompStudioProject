@@ -7,6 +7,6 @@ public class TriggerQuizGreatPlains : MonoBehaviour
 {
    void OnTriggerEnter2D(Collider2D other)
     {
-        SceneManager.LoadScene(17);
+        SceneManager.LoadScene(18);
     }
 }

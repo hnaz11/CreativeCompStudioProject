@@ -6,10 +6,7 @@ using UnityEngine.SceneManagement;
 
 public class buttonscript : MonoBehaviour
 {
-    int x;
     public void OnButtonPress(){
-        x++;
-        Debug.Log("button clicked " + x + " times!!");
-        SceneManager.LoadScene(4);
+        SceneManager.LoadScene(8);
     }
 }
