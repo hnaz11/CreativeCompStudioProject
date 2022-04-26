@@ -863,6 +863,49 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 538137245}
   m_CullTransparentMesh: 1
+--- !u!1 &645306092
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 645306094}
+  - component: {fileID: 645306093}
+  m_Layer: 0
+  m_Name: GOBACK
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &645306093
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 645306092}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3b260b94c95d56649bd6f39b44e8ed7f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!4 &645306094
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 645306092}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0.81145877, y: -4.2361264, z: -78.540405}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 6
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &670726539
 GameObject:
   m_ObjectHideFlags: 0
@@ -1349,6 +1392,14 @@ MonoBehaviour:
   ScoreTxt: {fileID: 1195932027}
   flute: FluteWin
   trumpet: TrumpetWin
+  piano: PianoWin
+  guitar: GuitarWin
+  dizi: DiziWin
+  sitar: SitarWin
+  clave: ClaveWin
+  la: LaWin
+  man: ManWin
+  kalimba: KalimbaWin
   score: 0
 --- !u!4 &773846825
 Transform:
@@ -2427,8 +2478,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1398928055}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -0.1201, y: 0.2222, z: 0}
-  m_LocalScale: {x: 0.89579606, y: 1.0278609, z: 1}
+  m_LocalPosition: {x: 0.116, y: 0.2694, z: 0}
+  m_LocalScale: {x: 0.9646445, y: 1.019124, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 1
@@ -2595,9 +2646,9 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 0}
-        m_TargetAssemblyTypeName: buttonscript, Assembly-CSharp
-        m_MethodName: OnButtonPress
+      - m_Target: {fileID: 645306093}
+        m_TargetAssemblyTypeName: GoBack, Assembly-CSharp
+        m_MethodName: goBackPeru
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
