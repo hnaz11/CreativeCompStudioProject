@@ -3,11 +3,10 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
-public class TriggerSpain : MonoBehaviour
+public class GoToEurope : MonoBehaviour
 {
     void OnTriggerEnter2D(Collider2D other)
     {
-        SceneManager.LoadScene(9);
-        Debug.Log("Spain loaded....");
+        SceneManager.LoadScene(4);
     }
 }
