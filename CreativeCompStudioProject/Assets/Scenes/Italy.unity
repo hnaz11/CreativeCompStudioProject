@@ -418,7 +418,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -795, y: 500}
+  m_AnchoredPosition: {x: -949, y: 200}
   m_SizeDelta: {x: 190, y: 60}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &131277340
@@ -1336,6 +1336,16 @@ MonoBehaviour:
   CongratsPanel: {fileID: 1985735302}
   QuestionTxt: {fileID: 1322767749}
   ScoreTxt: {fileID: 507484071}
+  flute: FluteWin
+  trumpet: TrumpetWin
+  piano: PianoWin
+  guitar: GuitarWin
+  dizi: DiziWin
+  sitar: SitarWin
+  clave: ClaveWin
+  la: LaWin
+  man: ManWin
+  kalimba: KalimbaWin
   score: 0
 --- !u!1 &751508526
 GameObject:
@@ -1452,7 +1462,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -600, y: 500}
+  m_AnchoredPosition: {x: -950, y: 300}
   m_SizeDelta: {x: 190, y: 60}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &792903992
@@ -2424,8 +2434,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1549214109}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -0.0418, y: -0.0636, z: 0}
-  m_LocalScale: {x: 0.37874016, y: 0.41110253, z: 1}
+  m_LocalPosition: {x: 0.1939, y: 0.0106, z: 0}
+  m_LocalScale: {x: 0.6863746, y: 0.484406, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 2
@@ -2466,7 +2476,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -796, y: 500}
+  m_AnchoredPosition: {x: -950, y: 200}
   m_SizeDelta: {x: 190, y: 60}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1597119623
@@ -2678,7 +2688,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -600, y: 500}
+  m_AnchoredPosition: {x: -949, y: 296}
   m_SizeDelta: {x: 190, y: 60}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1620309095

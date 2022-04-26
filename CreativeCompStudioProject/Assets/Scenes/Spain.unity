@@ -187,6 +187,16 @@ MonoBehaviour:
   CongratsPanel: {fileID: 653469229}
   QuestionTxt: {fileID: 1300760647}
   ScoreTxt: {fileID: 219448067}
+  flute: FluteWin
+  trumpet: TrumpetWin
+  piano: PianoWin
+  guitar: GuitarWin
+  dizi: DiziWin
+  sitar: SitarWin
+  clave: ClaveWin
+  la: LaWin
+  man: ManWin
+  kalimba: KalimbaWin
   score: 0
 --- !u!4 &45481678
 Transform:
@@ -1247,7 +1257,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -1200, y: 270}
+  m_AnchoredPosition: {x: -1352, y: -30}
   m_SizeDelta: {x: 190, y: 60}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &712975042
@@ -1380,7 +1390,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -600, y: 500}
+  m_AnchoredPosition: {x: -950, y: 300}
   m_SizeDelta: {x: 190, y: 60}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &715811331
@@ -2324,7 +2334,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -796, y: 500}
+  m_AnchoredPosition: {x: -950, y: 200}
   m_SizeDelta: {x: 190, y: 60}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1245129112
@@ -2918,7 +2928,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -1200, y: 270}
+  m_AnchoredPosition: {x: -1352, y: 72}
   m_SizeDelta: {x: 190, y: 60}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1626412774
