@@ -7,7 +7,7 @@ public class TriggerSpain : MonoBehaviour
 {
     void OnTriggerEnter2D(Collider2D other)
     {
-        SceneManager.LoadScene(9);
+        SceneManager.LoadScene(10);
         Debug.Log("Spain loaded....");
     }
 }

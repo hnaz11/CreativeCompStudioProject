@@ -7,7 +7,7 @@ public class TriggerChinaBeforeQuiz : MonoBehaviour
 {
     void OnTriggerEnter2D(Collider2D other)
     {
-        SceneManager.LoadScene(6);
+        SceneManager.LoadScene(7);
         Debug.Log("triggered....");
     }
 }

@@ -7,7 +7,7 @@ public class TriggerSpainBeforeQuiz : MonoBehaviour
 {
     void OnTriggerEnter2D(Collider2D other)
     {
-        SceneManager.LoadScene(3);
+        SceneManager.LoadScene(4);
         Debug.Log("triggered....");
     }
 }

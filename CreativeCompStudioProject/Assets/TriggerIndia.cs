@@ -8,7 +8,7 @@ public class TriggerIndia : MonoBehaviour
 {
      void OnTriggerEnter2D(Collider2D other)
     {
-        SceneManager.LoadScene(7);
+        SceneManager.LoadScene(11);
         Debug.Log("India loaded...");
     }
 }

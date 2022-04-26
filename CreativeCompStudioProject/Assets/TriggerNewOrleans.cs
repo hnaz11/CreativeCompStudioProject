@@ -7,6 +7,6 @@ public class TriggerNewOrleans : MonoBehaviour
 {
     void OnTriggerEnter2D(Collider2D other)
     {
-        SceneManager.LoadScene(18);
+        SceneManager.LoadScene(19);
     }
 }

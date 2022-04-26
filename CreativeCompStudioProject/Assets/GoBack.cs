@@ -8,12 +8,12 @@ public class GoBack : MonoBehaviour
 {
     public void goBackGP()
     {
-        SceneManager.LoadScene(16);
+        SceneManager.LoadScene(17);
     }
 
     public void goBackNO()
     {
-        SceneManager.LoadScene(18);
+        SceneManager.LoadScene(19);
     }
 
     public void goBackPeru()
@@ -28,15 +28,15 @@ public class GoBack : MonoBehaviour
 
     public void goBackZimbabwe()
     {
-        SceneManager.LoadScene(14);
+        SceneManager.LoadScene(15);
     }
     public void goBackAlgeria()
     {
-        SceneManager.LoadScene(12);
+        SceneManager.LoadScene(13);
     }
 
     public void goBackIndia()
     {
-        SceneManager.LoadScene(10);
+        SceneManager.LoadScene(11);
     }
 }

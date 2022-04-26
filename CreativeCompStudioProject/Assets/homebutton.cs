@@ -6,6 +6,6 @@ using UnityEngine.SceneManagement;
 public class homebutton : MonoBehaviour
 {
     public void OnButtonPress(){
-        SceneManager.LoadScene(0);
+        SceneManager.LoadScene(1);
     }
 }

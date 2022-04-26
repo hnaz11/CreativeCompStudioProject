@@ -6,6 +6,6 @@ using UnityEngine.SceneManagement;
 public class gospain : MonoBehaviour
 {
     public void OnButtonPress(){
-        SceneManager.LoadScene(9);
+        SceneManager.LoadScene(10);
     }
 }

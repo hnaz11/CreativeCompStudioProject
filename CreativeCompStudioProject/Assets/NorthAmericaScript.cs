@@ -7,6 +7,6 @@ public class NorthAmericaScript : MonoBehaviour
 {
      void OnTriggerEnter2D(Collider2D other)
     {
-        SceneManager.LoadScene(20);
+        SceneManager.LoadScene(21);
     }
 }
