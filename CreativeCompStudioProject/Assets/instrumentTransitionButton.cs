@@ -16,7 +16,7 @@ public class instrumentTransitionButton : MonoBehaviour
 
     public void PianoPress() {
         pianoCam.enabled = true;
-        //Camera.main.enabled = false;
+        Camera.main.enabled = false;
         Debug.Log("Piano Pressed!");
     }
 

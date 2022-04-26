@@ -28,11 +28,16 @@ public class noteClick : MonoBehaviour
 
             if (Physics.Raycast(ray, out hit)) {
                // Debug.Log(hit.transform.gameObject);
-                ChangeSprite(hit.transform.gameObject);/*
+               if (hit.transform.gameObject.tag == "Piano") {
+                   print("HIT PIEANO");
+               }
+               else {
+                ChangeSprite(hit.transform.gameObject);
+               }
                 Component[] components = gameObject.GetComponents(typeof(Component));
                 foreach(Component component in components) {
                     Debug.Log(component.ToString());
-                }*/
+                }
             }
         }
     }
