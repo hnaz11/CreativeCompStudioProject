@@ -199,8 +199,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 70704503}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0.1264, y: 0.0343, z: 0}
-  m_LocalScale: {x: 1.4608066, y: 1.1848091, z: 1}
+  m_LocalPosition: {x: -0.0596, y: 0.0343, z: 0}
+  m_LocalScale: {x: 1.161115, y: 1.1847656, z: 1}
   m_Children:
   - {fileID: 1879615911}
   m_Father: {fileID: 0}
@@ -887,10 +887,10 @@ MonoBehaviour:
   CollisionTag: 
   EventReference:
     Guid:
-      Data1: -372438864
-      Data2: 1153347582
-      Data3: -928627282
-      Data4: -29565913
+      Data1: 959457299
+      Data2: 1326868628
+      Data3: 49632442
+      Data4: 897178168
     Path: event:/Airplane
   Event: 
   PlayEvent: 1

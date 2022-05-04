@@ -568,7 +568,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 0}
+      - m_Target: {fileID: 156568320}
         m_TargetAssemblyTypeName: homebutton, Assembly-CSharp
         m_MethodName: OnButtonPress
         m_Mode: 1
@@ -780,9 +780,9 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 0}
-        m_TargetAssemblyTypeName: buttonscript, Assembly-CSharp
-        m_MethodName: OnButtonPress
+      - m_Target: {fileID: 1246018481}
+        m_TargetAssemblyTypeName: GoBack, Assembly-CSharp
+        m_MethodName: goBackAlgeria
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}

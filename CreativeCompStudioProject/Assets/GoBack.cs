@@ -11,6 +11,16 @@ public class GoBack : MonoBehaviour
         SceneManager.LoadScene(17);
     }
 
+    public void goBackItaly()
+    {
+        SceneManager.LoadScene(5);
+    }
+
+    public void goBackChina()
+    {
+        SceneManager.LoadScene(9);
+    }
+
     public void goBackNO()
     {
         SceneManager.LoadScene(19);
