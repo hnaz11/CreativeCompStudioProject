@@ -6,7 +6,7 @@ using UnityEngine.SceneManagement;
 
 public class airplaneMoveAsia : MonoBehaviour
 {
-     public float speed = 1.5f;
+     public float speed = 2f;
      private Vector3 target;
      private Vector2 mouse;
  
