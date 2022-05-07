@@ -1,27 +1,28 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 
 public class instrumentTransitionButton : MonoBehaviour
 {
     [SerializeField]
-    private Camera pianoCam;
+    GameObject piano;
     [SerializeField]
-    private Camera guitarCam;
+    GameObject guitar;
 
     public void Start() {
-        //Camera.main.enabled = false;
+        guitar.SetActive(false);
     }
 
     public void PianoPress() {
-        pianoCam.enabled = true;
-        Camera.main.enabled = false;
-        Debug.Log("Piano Pressed!");
+        guitar.SetActive(false);
+        piano.SetActive(true);
+        Debug.Log("Piano Pressed");
     }
 
     public void GuitarPress() {
-        guitarCam.enabled = true;
-        Camera.main.enabled = false;
+        piano.SetActive(false);
+        guitar.SetActive(true);
     }
 }

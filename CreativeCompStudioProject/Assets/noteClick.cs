@@ -25,19 +25,11 @@ public class noteClick : MonoBehaviour
         if(Input.GetMouseButtonDown(0)) {
             Ray ray = Camera.main.ScreenPointToRay(Input.mousePosition);
             RaycastHit hit;
-
+            Physics.Raycast(ray, out hit);
+            //Debug.Log(hit.collider.tag);
             if (Physics.Raycast(ray, out hit)) {
-               // Debug.Log(hit.transform.gameObject);
-               if (hit.transform.gameObject.tag == "Piano") {
-                   print("HIT PIEANO");
-               }
-               else {
                 ChangeSprite(hit.transform.gameObject);
-               }
-                Component[] components = gameObject.GetComponents(typeof(Component));
-                foreach(Component component in components) {
-                    Debug.Log(component.ToString());
-                }
+                //DontDestroyOnLoad(hit.transform.gameObject);
             }
         }
     }
@@ -47,11 +39,11 @@ public class noteClick : MonoBehaviour
         if (obj.GetComponent<customTag>().hasTag("inactive")) {
             objSprite.sprite = clicked;
             obj.GetComponent<customTag>().rename(0, "active");
-            Debug.Log(obj.GetComponent<customTag>().getAtIndex(1));
+           // Debug.Log(obj.GetComponent<customTag>().getAtIndex(1));
             instance.setParameterByName(obj.GetComponent<customTag>().getAtIndex(1) + " Active", 1);
 
         }
-        else {
+        else if (obj.GetComponent<customTag>().hasTag("active")) {
             objSprite.sprite = unclicked;
             obj.GetComponent<customTag>().rename(0, "inactive");
             instance.setParameterByName(obj.GetComponent<customTag>().getAtIndex(1) + " Active", 0);

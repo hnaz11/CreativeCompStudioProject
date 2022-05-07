@@ -87,7 +87,7 @@ EditorBuildSettings:
     path: Assets/Scenes/PeruBefore.unity
     guid: f2dc51a1a7fe740d9b5618116045bff2
   - enabled: 1
-    path: Assets/Scenes/Orchestra.unity
+    path: Assets/Scenes/OrchestraGuitar.unity
     guid: 412d9333cca132040809b77f4d96090f
   - enabled: 1
     path: Assets/Scenes/PeruQuiz.unity
@@ -95,4 +95,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/InstrumentRoom.unity
     guid: 54cfcfc0c55c44a5892d67f5d7b2706e
+  - enabled: 1
+    path: Assets/Scenes/OrchestraPiano.unity
+    guid: 0c9b1812030254f409c89dbc63d2f7ff
   m_configObjects: {}
