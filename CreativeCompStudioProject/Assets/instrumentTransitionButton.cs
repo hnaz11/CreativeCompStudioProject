@@ -10,19 +10,32 @@ public class instrumentTransitionButton : MonoBehaviour
     GameObject piano;
     [SerializeField]
     GameObject guitar;
+    [SerializeField]
+    GameObject dizi;
+
+    private GameObject active;
 
     public void Start() {
         guitar.SetActive(false);
+        dizi.SetActive(false);
+        active = piano;
     }
 
     public void PianoPress() {
-        guitar.SetActive(false);
+        active.SetActive(false);
         piano.SetActive(true);
-        Debug.Log("Piano Pressed");
+        active = piano;
     }
 
     public void GuitarPress() {
-        piano.SetActive(false);
+        active.SetActive(false);
         guitar.SetActive(true);
+        active = guitar;
+    }
+
+    public void DiziPress() {
+        active.SetActive(false);
+        dizi.SetActive(true);
+        active = dizi;
     }
 }

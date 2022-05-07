@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="ParameterPreset" id="{9b5c8e62-6ae7-4289-9977-ff877ee971d9}">
+		<property name="name">
+			<value>Dizi G-4 2 Active</value>
+		</property>
+		<relationship name="folder">
+			<destination>{c8af1656-9543-490d-9f92-71fa3c25838b}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{1d8dcaa3-fd66-4231-aafb-0c23f146450c}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{1d8dcaa3-fd66-4231-aafb-0c23f146450c}">
+		<property name="parameterType">
+			<value>1</value>
+		</property>
+		<property name="maximum">
+			<value>2</value>
+		</property>
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+	</object>
+</objects>
