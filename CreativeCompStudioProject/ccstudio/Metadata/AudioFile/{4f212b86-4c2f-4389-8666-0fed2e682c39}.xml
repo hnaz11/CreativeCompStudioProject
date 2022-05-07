@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{4f212b86-4c2f-4389-8666-0fed2e682c39}">
+		<property name="assetPath">
+			<value>clave-low.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>0.12501133786848073</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{f68a1cd6-e0d4-4b46-8ddb-ab6d82ac74b4}</destination>
+		</relationship>
+	</object>
+</objects>

@@ -12,12 +12,15 @@ public class instrumentTransitionButton : MonoBehaviour
     GameObject guitar;
     [SerializeField]
     GameObject dizi;
+    [SerializeField]
+    GameObject clave;
 
     private GameObject active;
 
     public void Start() {
         guitar.SetActive(false);
         dizi.SetActive(false);
+        clave.SetActive(false); 
         active = piano;
     }
 
@@ -37,5 +40,11 @@ public class instrumentTransitionButton : MonoBehaviour
         active.SetActive(false);
         dizi.SetActive(true);
         active = dizi;
+    }
+
+    public void ClavePress() {
+        active.SetActive(false);
+        clave.SetActive(true);
+        active = clave;
     }
 }
