@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="ParameterPreset" id="{98b181d6-691e-4ef1-9bed-8ed47e955184}">
+		<property name="name">
+			<value>Sitar D7 2 Active</value>
+		</property>
+		<relationship name="folder">
+			<destination>{c8af1656-9543-490d-9f92-71fa3c25838b}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{d7f09468-2111-42da-a61c-6abb48efe498}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{d7f09468-2111-42da-a61c-6abb48efe498}">
+		<property name="parameterType">
+			<value>1</value>
+		</property>
+		<property name="maximum">
+			<value>2</value>
+		</property>
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+	</object>
+</objects>

@@ -7,7 +7,7 @@
 [LOG] OutputWASAPI::init                       : Output buffer size: 4096 samples, latency: 0.00ms, period: 10.00ms, DSP buffer: 1024 * 4
 [LOG] Thread::initThread                       : Init FMOD stream thread. Affinity: 0x4000000000000003, Priority: 0xFFFF7FFB, Stack Size: 98304, Semaphore: No, Sleep Time: 10, Looping: Yes.
 [LOG] Thread::initThread                       : Init FMOD mixer thread. Affinity: 0x4000000000000001, Priority: 0xFFFF7FFA, Stack Size: 81920, Semaphore: No, Sleep Time: 0, Looping: Yes.
-[LOG] AsyncManager::init                       : manager 0000022FDF16DD08 isAsync 0 updatePeriod 0.02
+[LOG] AsyncManager::init                       : manager 00000294202FDFC8 isAsync 0 updatePeriod 0.02
 [LOG] AsyncManager::init                       : done
 [LOG] PlaybackSystem::init                     : 
 [LOG] Thread::initThread                       : Init FMOD Studio sample load thread. Affinity: 0x4000000000000003, Priority: 0xFFFF7FFD, Stack Size: 98304, Semaphore: No, Sleep Time: 1, Looping: No.
@@ -23,62 +23,6 @@
 [LOG] Manager::readBank                        : fileversion = 142, compatVersion = 140 (oldest = 44, newest = 141)
 [LOG] PlaybackSystem::acquireMasterBus         : Setting master channel group format to 6
 [LOG] Manager::readBank                        : fileversion = 142, compatVersion = 140 (oldest = 44, newest = 141)
-[LOG] SoundI::release                          :  (0000022FDA79DD78)
-[LOG] SoundI::release                          :     dizi-c4 (0000022F46C48E48)
-[LOG] SoundI::release                          :  (0000022FDA79FE88)
-[LOG] SoundI::release                          :     dizi-g4 (0000022F21811D78)
-[LOG] SoundI::release                          :  (0000022FDA79E338)
-[LOG] SoundI::release                          :     piano-c3 (0000022F46C48CA8)
-[LOG] SoundI::release                          :  (0000022FDA79E1C8)
-[LOG] SoundI::release                          :     clave-low (0000022F218135D8)
-[LOG] SoundI::release                          :  (0000022FDA79ED48)
-[LOG] SoundI::release                          :     dizi-d4 (0000022F21814958)
-[LOG] SoundI::release                          :  (0000022FDA79CC38)
-[LOG] SoundI::release                          :     guitar-cmaj (0000022F21814478)
-[LOG] SoundI::release                          :  (0000022FDA79DEE8)
-[LOG] SoundI::release                          :     guitar-dmin (0000022F46C48FE8)
-[LOG] SoundI::release                          :  (0000022FDA79E618)
-[LOG] SoundI::release                          :     guitar-fmaj (0000022F46C4A9E8)
-[LOG] SoundI::release                          :  (0000022FDF318D28)
-[LOG] SoundI::release                          :     guitar-emin (0000022F46C47FA8)
-[LOG] SoundI::release                          :  (0000022FDA79F028)
-[LOG] SoundI::release                          :     dizi-a4 (0000022F21812738)
-[LOG] SoundI::release                          :  (0000022FDA79F758)
-[LOG] SoundI::release                          :     piano-c4 (0000022F21811078)
-[LOG] SoundI::release                          :  (0000022FDA79F478)
-[LOG] SoundI::release                          :     guitar-amin (0000022F21813F98)
-[LOG] SoundI::release                          :  (0000022FDF318BB8)
-[LOG] SoundI::release                          :     piano-d3 (0000022F46C48488)
-[LOG] SoundI::release                          :  (0000022FDA79C0B8)
-[LOG] SoundI::release                          :     piano-f3 (0000022F46C487C8)
-[LOG] SoundI::release                          :  (0000022FDA79E8F8)
-[LOG] SoundI::release                          :     piano-g3 (0000022F46C4AD28)
-[LOG] SoundI::release                          :  (0000022FDA79EA68)
-[LOG] SoundI::release                          :     dizi-e4 (0000022F46C49B48)
-[LOG] SoundI::release                          :  (0000022FDA79FD18)
-[LOG] SoundI::release                          :     piano-e3 (0000022F46C49E88)
-[LOG] SoundI::release                          :  (0000022FDA79DC08)
-[LOG] SoundI::release                          :     piano-a3 (0000022F21812C18)
-[LOG] SoundI::release                          :  (0000022FDF3181A8)
-[LOG] SoundI::release                          :     piano-b3 (0000022F46C48B08)
-[LOG] SoundI::release                          :  (0000022FDA79E788)
-[LOG] SoundI::release                          :     guitar-gmaj (0000022F21811BD8)
-[LOG] SoundI::release                          :  (0000022FDF316098)
-[LOG] SoundI::release                          :     guitar-bdim (0000022F46C47788)
-[LOG] SoundI::release                          :  (0000022FDF3174B8)
-[LOG] SoundI::release                          :     clave (0000022F46C494C8)
-[LOG] SoundI::release                          :  (0000022FDA79D928)
-[LOG] SoundI::release                          :     clave-high (0000022F21812598)
-[LOG] Thread::callback                         : FMOD Studio update thread finished.
-[LOG] Thread::callback                         : FMOD Studio bank load thread finished.
-[LOG] Profile::disconnectAll                   : Profiler disconnecting all clients
-[LOG] Thread::callback                         : FMOD Studio sample load thread finished.
-[LOG] LiveUpdate::release                      : 
-[LOG] LiveUpdate::reset                        : Reset connection (reason Disconnected)
-[LOG] Thread::callback                         : FMOD stream thread finished.
-[LOG] Thread::callback                         : FMOD mixer thread finished.
-[LOG] Profile::disconnectAll                   : Profiler disconnecting all clients
-[LOG] SystemI::close                           : Closed.
 [LOG] Thread::callback                         : FMOD Studio bank load thread finished.
 [LOG] Thread::callback                         : FMOD Studio sample load thread finished.
 [LOG] LiveUpdate::release                      : 

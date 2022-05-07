@@ -96,6 +96,30 @@ MonoBehaviour:
   IsGlobal: 0
   Labels: []
   Exists: 1
+--- !u!114 &-8542031281450854851
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Piano Roll/Sitar E7 4 Active
+  m_EditorClassIdentifier: 
+  Name: Sitar E7 4 Active
+  StudioPath: 
+  Min: 0
+  Max: 1
+  Default: 0
+  ID:
+    data1: 1448630846
+    data2: 1055292273
+  Type: 1
+  IsGlobal: 0
+  Labels: []
+  Exists: 1
 --- !u!114 &-8456786966369081124
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -116,6 +140,30 @@ MonoBehaviour:
   ID:
     data1: 943823233
     data2: 3525657094
+  Type: 1
+  IsGlobal: 0
+  Labels: []
+  Exists: 1
+--- !u!114 &-8057813356097692055
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Piano Roll/Sitar C7 3 Active
+  m_EditorClassIdentifier: 
+  Name: Sitar C7 3 Active
+  StudioPath: 
+  Min: 0
+  Max: 1
+  Default: 0
+  ID:
+    data1: 4053556337
+    data2: 127279885
   Type: 1
   IsGlobal: 0
   Labels: []
@@ -279,7 +327,7 @@ MonoBehaviour:
   Path: ccstudio/Build/Desktop/Cheer.bank
   Name: Cheer
   StudioPath: bank:/Cheer
-  lastModified: 637875363820413271
+  lastModified: 637875448215844754
   FileSizes:
   - Name: Desktop
     Value: 52064
@@ -482,6 +530,30 @@ MonoBehaviour:
   IsGlobal: 0
   Labels: []
   Exists: 1
+--- !u!114 &-6893049337184062198
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Piano Roll/Sitar G7 3 Active
+  m_EditorClassIdentifier: 
+  Name: Sitar G7 3 Active
+  StudioPath: 
+  Min: 0
+  Max: 1
+  Default: 0
+  ID:
+    data1: 531360621
+    data2: 1499743534
+  Type: 1
+  IsGlobal: 0
+  Labels: []
+  Exists: 1
 --- !u!114 &-6675489545273991950
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -548,7 +620,7 @@ MonoBehaviour:
   Path: ccstudio/Build/Desktop/dummy_test.bank
   Name: dummy_test
   StudioPath: bank:/dummy_test
-  lastModified: 637875363820459920
+  lastModified: 637875448215868853
   FileSizes:
   - Name: Desktop
     Value: 494
@@ -844,6 +916,30 @@ MonoBehaviour:
   IsGlobal: 0
   Labels: []
   Exists: 1
+--- !u!114 &-4637644896306082734
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Piano Roll/Sitar E7 3 Active
+  m_EditorClassIdentifier: 
+  Name: Sitar E7 3 Active
+  StudioPath: 
+  Min: 0
+  Max: 1
+  Default: 0
+  ID:
+    data1: 3000383363
+    data2: 3804776892
+  Type: 1
+  IsGlobal: 0
+  Labels: []
+  Exists: 1
 --- !u!114 &-4612057685268489435
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -979,7 +1075,7 @@ MonoBehaviour:
   Path: ccstudio/Build/Desktop/Guitar.bank
   Name: Guitar
   StudioPath: bank:/Guitar
-  lastModified: 637875363820516260
+  lastModified: 637875448215896729
   FileSizes:
   - Name: Desktop
     Value: 494
@@ -1196,6 +1292,30 @@ MonoBehaviour:
   ID:
     data1: 2019571874
     data2: 4068737970
+  Type: 1
+  IsGlobal: 0
+  Labels: []
+  Exists: 1
+--- !u!114 &-2562118722143261617
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Piano Roll/Sitar G7 4 Active
+  m_EditorClassIdentifier: 
+  Name: Sitar G7 4 Active
+  StudioPath: 
+  Min: 0
+  Max: 1
+  Default: 0
+  ID:
+    data1: 2251337373
+    data2: 1895696402
   Type: 1
   IsGlobal: 0
   Labels: []
@@ -1536,6 +1656,54 @@ MonoBehaviour:
   IsGlobal: 0
   Labels: []
   Exists: 1
+--- !u!114 &-1146542671584002073
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Piano Roll/Sitar D7 2 Active
+  m_EditorClassIdentifier: 
+  Name: Sitar D7 2 Active
+  StudioPath: 
+  Min: 0
+  Max: 1
+  Default: 0
+  ID:
+    data1: 3362321684
+    data2: 2299602245
+  Type: 1
+  IsGlobal: 0
+  Labels: []
+  Exists: 1
+--- !u!114 &-1089183106394459468
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Piano Roll/Sitar F7 1 Active
+  m_EditorClassIdentifier: 
+  Name: Sitar F7 1 Active
+  StudioPath: 
+  Min: 0
+  Max: 1
+  Default: 0
+  ID:
+    data1: 729212723
+    data2: 1702954821
+  Type: 1
+  IsGlobal: 0
+  Labels: []
+  Exists: 1
 --- !u!114 &-897097828624687784
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1720,9 +1888,29 @@ MonoBehaviour:
   - {fileID: -3049641395979264594}
   - {fileID: -283477091770619382}
   - {fileID: 8185147809354628291}
+  - {fileID: -2562118722143261617}
+  - {fileID: -4637644896306082734}
+  - {fileID: 4095987322629133114}
+  - {fileID: -1089183106394459468}
+  - {fileID: -660093018502705961}
+  - {fileID: 6968936445637900969}
+  - {fileID: 5590683214082794931}
+  - {fileID: 3684434665716907606}
+  - {fileID: -8542031281450854851}
+  - {fileID: -1146542671584002073}
+  - {fileID: 7633711525798916323}
+  - {fileID: -6893049337184062198}
+  - {fileID: 3986944872701544568}
+  - {fileID: -549130261546657232}
+  - {fileID: 2124873213115908721}
+  - {fileID: -8057813356097692055}
+  - {fileID: 6131205452484934476}
+  - {fileID: 577704804560877988}
+  - {fileID: -563792389371338772}
+  - {fileID: 4517569291458883354}
   MinDistance: 1
   MaxDistance: 20
-  Length: 4000
+  Length: 4005
 --- !u!114 &-805657830718515809
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1743,6 +1931,30 @@ MonoBehaviour:
   ID:
     data1: 3713662770
     data2: 383791835
+  Type: 1
+  IsGlobal: 0
+  Labels: []
+  Exists: 1
+--- !u!114 &-660093018502705961
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Piano Roll/Sitar C-7 1 Active
+  m_EditorClassIdentifier: 
+  Name: Sitar C-7 1 Active
+  StudioPath: 
+  Min: 0
+  Max: 1
+  Default: 0
+  ID:
+    data1: 4062227673
+    data2: 2039856443
   Type: 1
   IsGlobal: 0
   Labels: []
@@ -1774,6 +1986,30 @@ MonoBehaviour:
   MinDistance: 1
   MaxDistance: 20
   Length: 0
+--- !u!114 &-563792389371338772
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Piano Roll/Sitar F7 3 Active
+  m_EditorClassIdentifier: 
+  Name: Sitar F7 3 Active
+  StudioPath: 
+  Min: 0
+  Max: 1
+  Default: 0
+  ID:
+    data1: 1003727711
+    data2: 2048750212
+  Type: 1
+  IsGlobal: 0
+  Labels: []
+  Exists: 1
 --- !u!114 &-562043782810603745
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1818,6 +2054,30 @@ MonoBehaviour:
   ID:
     data1: 242709992
     data2: 4255662717
+  Type: 1
+  IsGlobal: 0
+  Labels: []
+  Exists: 1
+--- !u!114 &-549130261546657232
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Piano Roll/Sitar E7 1 Active
+  m_EditorClassIdentifier: 
+  Name: Sitar E7 1 Active
+  StudioPath: 
+  Min: 0
+  Max: 1
+  Default: 0
+  ID:
+    data1: 3727531159
+    data2: 401046395
   Type: 1
   IsGlobal: 0
   Labels: []
@@ -1957,10 +2217,10 @@ MonoBehaviour:
   Path: ccstudio/Build/Desktop/Piano.bank
   Name: Piano
   StudioPath: bank:/Piano
-  lastModified: 637875363823233238
+  lastModified: 637875448220999102
   FileSizes:
   - Name: Desktop
-    Value: 364960
+    Value: 487520
   Exists: 1
 --- !u!114 &-74617118267879967
 MonoBehaviour:
@@ -2047,7 +2307,7 @@ MonoBehaviour:
   - {fileID: 2955798442118730585}
   StringsBanks:
   - {fileID: 3620334716804157391}
-  cacheTime: 637875363823233238
+  cacheTime: 637875448220999102
   cacheVersion: 10
 --- !u!114 &156782706801910945
 MonoBehaviour:
@@ -2064,7 +2324,7 @@ MonoBehaviour:
   Path: ccstudio/Build/Desktop/Airplane.bank
   Name: Airplane
   StudioPath: bank:/Airplane
-  lastModified: 637875363820120748
+  lastModified: 637875448213279321
   FileSizes:
   - Name: Desktop
     Value: 229440
@@ -2113,6 +2373,30 @@ MonoBehaviour:
   ID:
     data1: 2123433854
     data2: 299335300
+  Type: 1
+  IsGlobal: 0
+  Labels: []
+  Exists: 1
+--- !u!114 &577704804560877988
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Piano Roll/Sitar D7 4 Active
+  m_EditorClassIdentifier: 
+  Name: Sitar D7 4 Active
+  StudioPath: 
+  Min: 0
+  Max: 1
+  Default: 0
+  ID:
+    data1: 3541721032
+    data2: 4110010359
   Type: 1
   IsGlobal: 0
   Labels: []
@@ -2510,6 +2794,30 @@ MonoBehaviour:
   IsGlobal: 0
   Labels: []
   Exists: 1
+--- !u!114 &2124873213115908721
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Piano Roll/Sitar G7 2 Active
+  m_EditorClassIdentifier: 
+  Name: Sitar G7 2 Active
+  StudioPath: 
+  Min: 0
+  Max: 1
+  Default: 0
+  ID:
+    data1: 3297704244
+    data2: 3621901792
+  Type: 1
+  IsGlobal: 0
+  Labels: []
+  Exists: 1
 --- !u!114 &2263509495468414923
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2648,7 +2956,7 @@ MonoBehaviour:
   Path: ccstudio/Build/Desktop/Master.bank
   Name: Master
   StudioPath: bank:/Master
-  lastModified: 637875363820567298
+  lastModified: 637875448215935130
   FileSizes:
   - Name: Desktop
     Value: 1036
@@ -2911,10 +3219,34 @@ MonoBehaviour:
   Path: ccstudio/Build/Desktop/Master.strings.bank
   Name: Master.strings
   StudioPath: bank:/Master.strings
-  lastModified: 637875363820625687
+  lastModified: 637875448215966323
   FileSizes:
   - Name: Desktop
-    Value: 7304
+    Value: 8194
+  Exists: 1
+--- !u!114 &3684434665716907606
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Piano Roll/Sitar C7 2 Active
+  m_EditorClassIdentifier: 
+  Name: Sitar C7 2 Active
+  StudioPath: 
+  Min: 0
+  Max: 1
+  Default: 0
+  ID:
+    data1: 2896641448
+    data2: 782472509
+  Type: 1
+  IsGlobal: 0
+  Labels: []
   Exists: 1
 --- !u!114 &3779112025047796996
 MonoBehaviour:
@@ -2988,6 +3320,54 @@ MonoBehaviour:
   IsGlobal: 0
   Labels: []
   Exists: 1
+--- !u!114 &3986944872701544568
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Piano Roll/Sitar F7 4 Active
+  m_EditorClassIdentifier: 
+  Name: Sitar F7 4 Active
+  StudioPath: 
+  Min: 0
+  Max: 1
+  Default: 0
+  ID:
+    data1: 71393662
+    data2: 3956756985
+  Type: 1
+  IsGlobal: 0
+  Labels: []
+  Exists: 1
+--- !u!114 &4095987322629133114
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Piano Roll/Sitar D7 3 Active
+  m_EditorClassIdentifier: 
+  Name: Sitar D7 3 Active
+  StudioPath: 
+  Min: 0
+  Max: 1
+  Default: 0
+  ID:
+    data1: 1801734393
+    data2: 2126753431
+  Type: 1
+  IsGlobal: 0
+  Labels: []
+  Exists: 1
 --- !u!114 &4168038218250921717
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3056,6 +3436,30 @@ MonoBehaviour:
   ID:
     data1: 4125128855
     data2: 530034683
+  Type: 1
+  IsGlobal: 0
+  Labels: []
+  Exists: 1
+--- !u!114 &4517569291458883354
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: 'parameter:/Piano Roll/Sitar D7 1 Active '
+  m_EditorClassIdentifier: 
+  Name: 'Sitar D7 1 Active '
+  StudioPath: 
+  Min: 0
+  Max: 1
+  Default: 0
+  ID:
+    data1: 4004825123
+    data2: 3817679013
   Type: 1
   IsGlobal: 0
   Labels: []
@@ -3204,6 +3608,30 @@ MonoBehaviour:
   IsGlobal: 0
   Labels: []
   Exists: 1
+--- !u!114 &5590683214082794931
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Piano Roll/Sitar E7 2 Active
+  m_EditorClassIdentifier: 
+  Name: Sitar E7 2 Active
+  StudioPath: 
+  Min: 0
+  Max: 1
+  Default: 0
+  ID:
+    data1: 1346327286
+    data2: 3108765376
+  Type: 1
+  IsGlobal: 0
+  Labels: []
+  Exists: 1
 --- !u!114 &5645171423065562092
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3348,6 +3776,30 @@ MonoBehaviour:
   IsGlobal: 0
   Labels: []
   Exists: 1
+--- !u!114 &6131205452484934476
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Piano Roll/Sitar F7 2 Active
+  m_EditorClassIdentifier: 
+  Name: Sitar F7 2 Active
+  StudioPath: 
+  Min: 0
+  Max: 1
+  Default: 0
+  ID:
+    data1: 1696574273
+    data2: 3860008247
+  Type: 1
+  IsGlobal: 0
+  Labels: []
+  Exists: 1
 --- !u!114 &6374848895609417937
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3416,6 +3868,30 @@ MonoBehaviour:
   ID:
     data1: 2475054378
     data2: 198639033
+  Type: 1
+  IsGlobal: 0
+  Labels: []
+  Exists: 1
+--- !u!114 &6968936445637900969
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Piano Roll/Sitar G7 1 Active
+  m_EditorClassIdentifier: 
+  Name: Sitar G7 1 Active
+  StudioPath: 
+  Min: 0
+  Max: 1
+  Default: 0
+  ID:
+    data1: 1268803173
+    data2: 2463797314
   Type: 1
   IsGlobal: 0
   Labels: []
@@ -3536,6 +4012,30 @@ MonoBehaviour:
   ID:
     data1: 2405882433
     data2: 1811632023
+  Type: 1
+  IsGlobal: 0
+  Labels: []
+  Exists: 1
+--- !u!114 &7633711525798916323
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Piano Roll/Sitar C7 4 Active
+  m_EditorClassIdentifier: 
+  Name: Sitar C7 4 Active
+  StudioPath: 
+  Min: 0
+  Max: 1
+  Default: 0
+  ID:
+    data1: 3058717881
+    data2: 805400197
   Type: 1
   IsGlobal: 0
   Labels: []
