@@ -1,53 +1,5 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
---- !u!114 &-9059761184704192067
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
-  m_Name: parameter:/Piano Roll/Clave Low 3 Active
-  m_EditorClassIdentifier: 
-  Name: Clave Low 3 Active
-  StudioPath: 
-  Min: 0
-  Max: 1
-  Default: 0
-  ID:
-    data1: 4016369393
-    data2: 3293600579
-  Type: 1
-  IsGlobal: 0
-  Labels: []
-  Exists: 1
---- !u!114 &-9047345222597676249
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
-  m_Name: parameter:/Piano Roll/Dizi E-4 2 Active
-  m_EditorClassIdentifier: 
-  Name: Dizi E-4 2 Active
-  StudioPath: 
-  Min: 0
-  Max: 1
-  Default: 0
-  ID:
-    data1: 933790437
-    data2: 2041636674
-  Type: 1
-  IsGlobal: 0
-  Labels: []
-  Exists: 1
 --- !u!114 &-8927512724623881016
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -68,126 +20,6 @@ MonoBehaviour:
   ID:
     data1: 1281192029
     data2: 2935538019
-  Type: 1
-  IsGlobal: 0
-  Labels: []
-  Exists: 1
---- !u!114 &-8731378743665756444
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
-  m_Name: parameter:/Piano Roll/Dizi G-4 4 Active
-  m_EditorClassIdentifier: 
-  Name: Dizi G-4 4 Active
-  StudioPath: 
-  Min: 0
-  Max: 1
-  Default: 0
-  ID:
-    data1: 1376316977
-    data2: 1249230165
-  Type: 1
-  IsGlobal: 0
-  Labels: []
-  Exists: 1
---- !u!114 &-8542031281450854851
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
-  m_Name: parameter:/Piano Roll/Sitar E7 4 Active
-  m_EditorClassIdentifier: 
-  Name: Sitar E7 4 Active
-  StudioPath: 
-  Min: 0
-  Max: 1
-  Default: 0
-  ID:
-    data1: 1448630846
-    data2: 1055292273
-  Type: 1
-  IsGlobal: 0
-  Labels: []
-  Exists: 1
---- !u!114 &-8456786966369081124
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
-  m_Name: parameter:/Piano Roll/Clave 3 Active
-  m_EditorClassIdentifier: 
-  Name: Clave 3 Active
-  StudioPath: 
-  Min: 0
-  Max: 1
-  Default: 0
-  ID:
-    data1: 943823233
-    data2: 3525657094
-  Type: 1
-  IsGlobal: 0
-  Labels: []
-  Exists: 1
---- !u!114 &-8057813356097692055
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
-  m_Name: parameter:/Piano Roll/Sitar C7 3 Active
-  m_EditorClassIdentifier: 
-  Name: Sitar C7 3 Active
-  StudioPath: 
-  Min: 0
-  Max: 1
-  Default: 0
-  ID:
-    data1: 4053556337
-    data2: 127279885
-  Type: 1
-  IsGlobal: 0
-  Labels: []
-  Exists: 1
---- !u!114 &-7975970223800542051
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
-  m_Name: parameter:/Piano Roll/Clave Low &3 Active
-  m_EditorClassIdentifier: 
-  Name: Clave Low &3 Active
-  StudioPath: 
-  Min: 0
-  Max: 1
-  Default: 0
-  ID:
-    data1: 929987710
-    data2: 682012387
   Type: 1
   IsGlobal: 0
   Labels: []
@@ -264,54 +96,6 @@ MonoBehaviour:
   IsGlobal: 0
   Labels: []
   Exists: 1
---- !u!114 &-7842565217750305008
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
-  m_Name: parameter:/Piano Roll/Dizi C-4 2 Active
-  m_EditorClassIdentifier: 
-  Name: Dizi C-4 2 Active
-  StudioPath: 
-  Min: 0
-  Max: 1
-  Default: 0
-  ID:
-    data1: 2472774093
-    data2: 1339407735
-  Type: 1
-  IsGlobal: 0
-  Labels: []
-  Exists: 1
---- !u!114 &-7632264222419878791
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
-  m_Name: parameter:/Piano Roll/Clave 2 Active
-  m_EditorClassIdentifier: 
-  Name: Clave 2 Active
-  StudioPath: 
-  Min: 0
-  Max: 1
-  Default: 0
-  ID:
-    data1: 1860039237
-    data2: 2771781028
-  Type: 1
-  IsGlobal: 0
-  Labels: []
-  Exists: 1
 --- !u!114 &-7602545252327962176
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -327,34 +111,10 @@ MonoBehaviour:
   Path: ccstudio/Build/Desktop/Cheer.bank
   Name: Cheer
   StudioPath: bank:/Cheer
-  lastModified: 637875448215844754
+  lastModified: 637872086385870723
   FileSizes:
   - Name: Desktop
     Value: 52064
-  Exists: 1
---- !u!114 &-7505995057073469390
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
-  m_Name: parameter:/Piano Roll/Clave Low &1 Active
-  m_EditorClassIdentifier: 
-  Name: Clave Low &1 Active
-  StudioPath: 
-  Min: 0
-  Max: 1
-  Default: 0
-  ID:
-    data1: 4267636175
-    data2: 4147763681
-  Type: 1
-  IsGlobal: 0
-  Labels: []
   Exists: 1
 --- !u!114 &-7475080601198758425
 MonoBehaviour:
@@ -383,30 +143,6 @@ MonoBehaviour:
   MinDistance: 1
   MaxDistance: 20
   Length: 0
---- !u!114 &-7235079300778101096
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
-  m_Name: parameter:/Piano Roll/Dizi G-4 1 Active
-  m_EditorClassIdentifier: 
-  Name: Dizi G-4 1 Active
-  StudioPath: 
-  Min: 0
-  Max: 1
-  Default: 0
-  ID:
-    data1: 4202255519
-    data2: 3848111783
-  Type: 1
-  IsGlobal: 0
-  Labels: []
-  Exists: 1
 --- !u!114 &-7122783190787456030
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -530,30 +266,6 @@ MonoBehaviour:
   IsGlobal: 0
   Labels: []
   Exists: 1
---- !u!114 &-6893049337184062198
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
-  m_Name: parameter:/Piano Roll/Sitar G7 3 Active
-  m_EditorClassIdentifier: 
-  Name: Sitar G7 3 Active
-  StudioPath: 
-  Min: 0
-  Max: 1
-  Default: 0
-  ID:
-    data1: 531360621
-    data2: 1499743534
-  Type: 1
-  IsGlobal: 0
-  Labels: []
-  Exists: 1
 --- !u!114 &-6675489545273991950
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -620,34 +332,10 @@ MonoBehaviour:
   Path: ccstudio/Build/Desktop/dummy_test.bank
   Name: dummy_test
   StudioPath: bank:/dummy_test
-  lastModified: 637875448215868853
+  lastModified: 637872086385895704
   FileSizes:
   - Name: Desktop
     Value: 494
-  Exists: 1
---- !u!114 &-6223794249511469731
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
-  m_Name: parameter:/Piano Roll/Dizi D-4 3 Active
-  m_EditorClassIdentifier: 
-  Name: Dizi D-4 3 Active
-  StudioPath: 
-  Min: 0
-  Max: 1
-  Default: 0
-  ID:
-    data1: 2843117426
-    data2: 4234758531
-  Type: 1
-  IsGlobal: 0
-  Labels: []
   Exists: 1
 --- !u!114 &-6192743152323443902
 MonoBehaviour:
@@ -724,30 +412,6 @@ MonoBehaviour:
   IsGlobal: 0
   Labels: []
   Exists: 1
---- !u!114 &-5770405665376357552
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
-  m_Name: parameter:/Piano Roll/Dizi C-4 4 Active
-  m_EditorClassIdentifier: 
-  Name: Dizi C-4 4 Active
-  StudioPath: 
-  Min: 0
-  Max: 1
-  Default: 0
-  ID:
-    data1: 2998430449
-    data2: 2744648430
-  Type: 1
-  IsGlobal: 0
-  Labels: []
-  Exists: 1
 --- !u!114 &-5604362844468721514
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -768,30 +432,6 @@ MonoBehaviour:
   ID:
     data1: 749887316
     data2: 4213220380
-  Type: 1
-  IsGlobal: 0
-  Labels: []
-  Exists: 1
---- !u!114 &-5596086598658293872
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
-  m_Name: parameter:/Piano Roll/Dizi D-4 2 Active
-  m_EditorClassIdentifier: 
-  Name: Dizi D-4 2 Active
-  StudioPath: 
-  Min: 0
-  Max: 1
-  Default: 0
-  ID:
-    data1: 4225111342
-    data2: 791880358
   Type: 1
   IsGlobal: 0
   Labels: []
@@ -868,30 +508,6 @@ MonoBehaviour:
   IsGlobal: 0
   Labels: []
   Exists: 1
---- !u!114 &-4949404110670174092
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
-  m_Name: parameter:/Piano Roll/Dizi C-4 1 Active
-  m_EditorClassIdentifier: 
-  Name: Dizi C-4 1 Active
-  StudioPath: 
-  Min: 0
-  Max: 1
-  Default: 0
-  ID:
-    data1: 2346380423
-    data2: 2578816286
-  Type: 1
-  IsGlobal: 0
-  Labels: []
-  Exists: 1
 --- !u!114 &-4718410712014710921
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -916,30 +532,6 @@ MonoBehaviour:
   IsGlobal: 0
   Labels: []
   Exists: 1
---- !u!114 &-4637644896306082734
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
-  m_Name: parameter:/Piano Roll/Sitar E7 3 Active
-  m_EditorClassIdentifier: 
-  Name: Sitar E7 3 Active
-  StudioPath: 
-  Min: 0
-  Max: 1
-  Default: 0
-  ID:
-    data1: 3000383363
-    data2: 3804776892
-  Type: 1
-  IsGlobal: 0
-  Labels: []
-  Exists: 1
 --- !u!114 &-4612057685268489435
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -960,30 +552,6 @@ MonoBehaviour:
   ID:
     data1: 1856978467
     data2: 3869094202
-  Type: 1
-  IsGlobal: 0
-  Labels: []
-  Exists: 1
---- !u!114 &-4409613442589639241
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
-  m_Name: parameter:/Piano Roll/Dizi E-4 1 Active
-  m_EditorClassIdentifier: 
-  Name: Dizi E-4 1 Active
-  StudioPath: 
-  Min: 0
-  Max: 1
-  Default: 0
-  ID:
-    data1: 2481239405
-    data2: 2352707944
   Type: 1
   IsGlobal: 0
   Labels: []
@@ -1075,7 +643,7 @@ MonoBehaviour:
   Path: ccstudio/Build/Desktop/Guitar.bank
   Name: Guitar
   StudioPath: bank:/Guitar
-  lastModified: 637875448215896729
+  lastModified: 637872086385920574
   FileSizes:
   - Name: Desktop
     Value: 494
@@ -1100,30 +668,6 @@ MonoBehaviour:
   ID:
     data1: 1175572043
     data2: 2490414023
-  Type: 1
-  IsGlobal: 0
-  Labels: []
-  Exists: 1
---- !u!114 &-3640949840348642111
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
-  m_Name: parameter:/Piano Roll/Dizi A-4 3 Active
-  m_EditorClassIdentifier: 
-  Name: Dizi A-4 3 Active
-  StudioPath: 
-  Min: 0
-  Max: 1
-  Default: 0
-  ID:
-    data1: 1119349688
-    data2: 252882885
   Type: 1
   IsGlobal: 0
   Labels: []
@@ -1172,30 +716,6 @@ MonoBehaviour:
   ID:
     data1: 1571045920
     data2: 2972109813
-  Type: 1
-  IsGlobal: 0
-  Labels: []
-  Exists: 1
---- !u!114 &-3049641395979264594
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
-  m_Name: parameter:/Piano Roll/Clave Low 1 Active
-  m_EditorClassIdentifier: 
-  Name: Clave Low 1 Active
-  StudioPath: 
-  Min: 0
-  Max: 1
-  Default: 0
-  ID:
-    data1: 965915801
-    data2: 3296764497
   Type: 1
   IsGlobal: 0
   Labels: []
@@ -1296,30 +816,6 @@ MonoBehaviour:
   IsGlobal: 0
   Labels: []
   Exists: 1
---- !u!114 &-2562118722143261617
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
-  m_Name: parameter:/Piano Roll/Sitar G7 4 Active
-  m_EditorClassIdentifier: 
-  Name: Sitar G7 4 Active
-  StudioPath: 
-  Min: 0
-  Max: 1
-  Default: 0
-  ID:
-    data1: 2251337373
-    data2: 1895696402
-  Type: 1
-  IsGlobal: 0
-  Labels: []
-  Exists: 1
 --- !u!114 &-2485759587700386825
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1340,30 +836,6 @@ MonoBehaviour:
   ID:
     data1: 3441904826
     data2: 1046956848
-  Type: 1
-  IsGlobal: 0
-  Labels: []
-  Exists: 1
---- !u!114 &-2465045331033339500
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
-  m_Name: parameter:/Piano Roll/Clave Low 4 Active
-  m_EditorClassIdentifier: 
-  Name: Clave Low 4 Active
-  StudioPath: 
-  Min: 0
-  Max: 1
-  Default: 0
-  ID:
-    data1: 1480819811
-    data2: 1916467722
   Type: 1
   IsGlobal: 0
   Labels: []
@@ -1440,30 +912,6 @@ MonoBehaviour:
   IsGlobal: 0
   Labels: []
   Exists: 1
---- !u!114 &-2106487247545894728
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
-  m_Name: parameter:/Piano Roll/Clave High 2 Active
-  m_EditorClassIdentifier: 
-  Name: Clave High 2 Active
-  StudioPath: 
-  Min: 0
-  Max: 1
-  Default: 0
-  ID:
-    data1: 576218394
-    data2: 822684791
-  Type: 1
-  IsGlobal: 0
-  Labels: []
-  Exists: 1
 --- !u!114 &-2060983664810224632
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1488,54 +936,6 @@ MonoBehaviour:
   IsGlobal: 0
   Labels: []
   Exists: 1
---- !u!114 &-1989035320507213800
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
-  m_Name: parameter:/Piano Roll/Clave High &2 Active
-  m_EditorClassIdentifier: 
-  Name: Clave High &2 Active
-  StudioPath: 
-  Min: 0
-  Max: 1
-  Default: 0
-  ID:
-    data1: 1908401576
-    data2: 3755032514
-  Type: 1
-  IsGlobal: 0
-  Labels: []
-  Exists: 1
---- !u!114 &-1967516163682256276
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
-  m_Name: parameter:/Piano Roll/Dizi E-4 4 Active
-  m_EditorClassIdentifier: 
-  Name: Dizi E-4 4 Active
-  StudioPath: 
-  Min: 0
-  Max: 1
-  Default: 0
-  ID:
-    data1: 2959872585
-    data2: 3090314648
-  Type: 1
-  IsGlobal: 0
-  Labels: []
-  Exists: 1
 --- !u!114 &-1963470275547543710
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1556,30 +956,6 @@ MonoBehaviour:
   ID:
     data1: 1283730130
     data2: 1944552572
-  Type: 1
-  IsGlobal: 0
-  Labels: []
-  Exists: 1
---- !u!114 &-1955376977434743151
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
-  m_Name: 'parameter:/Piano Roll/Clave High 1 Active '
-  m_EditorClassIdentifier: 
-  Name: 'Clave High 1 Active '
-  StudioPath: 
-  Min: 0
-  Max: 1
-  Default: 0
-  ID:
-    data1: 1344533389
-    data2: 1977821775
   Type: 1
   IsGlobal: 0
   Labels: []
@@ -1652,54 +1028,6 @@ MonoBehaviour:
   ID:
     data1: 813688737
     data2: 2033152085
-  Type: 1
-  IsGlobal: 0
-  Labels: []
-  Exists: 1
---- !u!114 &-1146542671584002073
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
-  m_Name: parameter:/Piano Roll/Sitar D7 2 Active
-  m_EditorClassIdentifier: 
-  Name: Sitar D7 2 Active
-  StudioPath: 
-  Min: 0
-  Max: 1
-  Default: 0
-  ID:
-    data1: 3362321684
-    data2: 2299602245
-  Type: 1
-  IsGlobal: 0
-  Labels: []
-  Exists: 1
---- !u!114 &-1089183106394459468
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
-  m_Name: parameter:/Piano Roll/Sitar F7 1 Active
-  m_EditorClassIdentifier: 
-  Name: Sitar F7 1 Active
-  StudioPath: 
-  Min: 0
-  Max: 1
-  Default: 0
-  ID:
-    data1: 729212723
-    data2: 1702954821
   Type: 1
   IsGlobal: 0
   Labels: []
@@ -1844,121 +1172,9 @@ MonoBehaviour:
   - {fileID: -4318267631694902612}
   - {fileID: 3248243223542326578}
   - {fileID: 8844380810535511350}
-  - {fileID: -4949404110670174092}
-  - {fileID: -4409613442589639241}
-  - {fileID: 2654420982881415924}
-  - {fileID: 3284364906937197746}
-  - {fileID: 3524812542856030133}
-  - {fileID: -6223794249511469731}
-  - {fileID: 6102437470166020122}
-  - {fileID: 668026375287191986}
-  - {fileID: 3881228816124017324}
-  - {fileID: -7235079300778101096}
-  - {fileID: -7842565217750305008}
-  - {fileID: -5596086598658293872}
-  - {fileID: 791414693206381003}
-  - {fileID: 7155013670210397054}
-  - {fileID: -8731378743665756444}
-  - {fileID: -3640949840348642111}
-  - {fileID: -1967516163682256276}
-  - {fileID: -9047345222597676249}
-  - {fileID: -5770405665376357552}
-  - {fileID: -38296397303626297}
-  - {fileID: 3466662596288363736}
-  - {fileID: -8456786966369081124}
-  - {fileID: 8571047558860520257}
-  - {fileID: -7505995057073469390}
-  - {fileID: -2465045331033339500}
-  - {fileID: 1172618062835540785}
-  - {fileID: -1989035320507213800}
-  - {fileID: -9059761184704192067}
-  - {fileID: -7632264222419878791}
-  - {fileID: -555774397469907336}
-  - {fileID: -2106487247545894728}
-  - {fileID: 1110393043078147026}
-  - {fileID: -1955376977434743151}
-  - {fileID: 1301600067935072698}
-  - {fileID: 1975788939115011892}
-  - {fileID: 7696949191628674159}
-  - {fileID: 3579905227033554379}
-  - {fileID: -7975970223800542051}
-  - {fileID: 1646978846269074439}
-  - {fileID: 1976791501294725176}
-  - {fileID: -805657830718515809}
-  - {fileID: -3049641395979264594}
-  - {fileID: -283477091770619382}
-  - {fileID: 8185147809354628291}
-  - {fileID: -2562118722143261617}
-  - {fileID: -4637644896306082734}
-  - {fileID: 4095987322629133114}
-  - {fileID: -1089183106394459468}
-  - {fileID: -660093018502705961}
-  - {fileID: 6968936445637900969}
-  - {fileID: 5590683214082794931}
-  - {fileID: 3684434665716907606}
-  - {fileID: -8542031281450854851}
-  - {fileID: -1146542671584002073}
-  - {fileID: 7633711525798916323}
-  - {fileID: -6893049337184062198}
-  - {fileID: 3986944872701544568}
-  - {fileID: -549130261546657232}
-  - {fileID: 2124873213115908721}
-  - {fileID: -8057813356097692055}
-  - {fileID: 6131205452484934476}
-  - {fileID: 577704804560877988}
-  - {fileID: -563792389371338772}
-  - {fileID: 4517569291458883354}
   MinDistance: 1
   MaxDistance: 20
-  Length: 4005
---- !u!114 &-805657830718515809
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
-  m_Name: parameter:/Piano Roll/Clave &1 Active
-  m_EditorClassIdentifier: 
-  Name: Clave &1 Active
-  StudioPath: 
-  Min: 0
-  Max: 1
-  Default: 0
-  ID:
-    data1: 3713662770
-    data2: 383791835
-  Type: 1
-  IsGlobal: 0
-  Labels: []
-  Exists: 1
---- !u!114 &-660093018502705961
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
-  m_Name: parameter:/Piano Roll/Sitar C-7 1 Active
-  m_EditorClassIdentifier: 
-  Name: Sitar C-7 1 Active
-  StudioPath: 
-  Min: 0
-  Max: 1
-  Default: 0
-  ID:
-    data1: 4062227673
-    data2: 2039856443
-  Type: 1
-  IsGlobal: 0
-  Labels: []
-  Exists: 1
+  Length: 4000
 --- !u!114 &-650874317294442198
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1986,30 +1202,6 @@ MonoBehaviour:
   MinDistance: 1
   MaxDistance: 20
   Length: 0
---- !u!114 &-563792389371338772
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
-  m_Name: parameter:/Piano Roll/Sitar F7 3 Active
-  m_EditorClassIdentifier: 
-  Name: Sitar F7 3 Active
-  StudioPath: 
-  Min: 0
-  Max: 1
-  Default: 0
-  ID:
-    data1: 1003727711
-    data2: 2048750212
-  Type: 1
-  IsGlobal: 0
-  Labels: []
-  Exists: 1
 --- !u!114 &-562043782810603745
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2030,54 +1222,6 @@ MonoBehaviour:
   ID:
     data1: 592076682
     data2: 3711037423
-  Type: 1
-  IsGlobal: 0
-  Labels: []
-  Exists: 1
---- !u!114 &-555774397469907336
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
-  m_Name: parameter:/Piano Roll/Clave Low 2 Active
-  m_EditorClassIdentifier: 
-  Name: Clave Low 2 Active
-  StudioPath: 
-  Min: 0
-  Max: 1
-  Default: 0
-  ID:
-    data1: 242709992
-    data2: 4255662717
-  Type: 1
-  IsGlobal: 0
-  Labels: []
-  Exists: 1
---- !u!114 &-549130261546657232
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
-  m_Name: parameter:/Piano Roll/Sitar E7 1 Active
-  m_EditorClassIdentifier: 
-  Name: Sitar E7 1 Active
-  StudioPath: 
-  Min: 0
-  Max: 1
-  Default: 0
-  ID:
-    data1: 3727531159
-    data2: 401046395
   Type: 1
   IsGlobal: 0
   Labels: []
@@ -2154,30 +1298,6 @@ MonoBehaviour:
   IsGlobal: 0
   Labels: []
   Exists: 1
---- !u!114 &-283477091770619382
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
-  m_Name: parameter:/Piano Roll/Clave High 4 Active
-  m_EditorClassIdentifier: 
-  Name: Clave High 4 Active
-  StudioPath: 
-  Min: 0
-  Max: 1
-  Default: 0
-  ID:
-    data1: 3085929305
-    data2: 1068201164
-  Type: 1
-  IsGlobal: 0
-  Labels: []
-  Exists: 1
 --- !u!114 &-180313624351774795
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2217,10 +1337,10 @@ MonoBehaviour:
   Path: ccstudio/Build/Desktop/Piano.bank
   Name: Piano
   StudioPath: bank:/Piano
-  lastModified: 637875448220999102
+  lastModified: 637872086387558579
   FileSizes:
   - Name: Desktop
-    Value: 487520
+    Value: 269504
   Exists: 1
 --- !u!114 &-74617118267879967
 MonoBehaviour:
@@ -2242,30 +1362,6 @@ MonoBehaviour:
   ID:
     data1: 713056350
     data2: 343773344
-  Type: 1
-  IsGlobal: 0
-  Labels: []
-  Exists: 1
---- !u!114 &-38296397303626297
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
-  m_Name: parameter:/Piano Roll/Dizi D-4 4 Active
-  m_EditorClassIdentifier: 
-  Name: Dizi D-4 4 Active
-  StudioPath: 
-  Min: 0
-  Max: 1
-  Default: 0
-  ID:
-    data1: 1457189549
-    data2: 277821472
   Type: 1
   IsGlobal: 0
   Labels: []
@@ -2307,7 +1403,7 @@ MonoBehaviour:
   - {fileID: 2955798442118730585}
   StringsBanks:
   - {fileID: 3620334716804157391}
-  cacheTime: 637875448220999102
+  cacheTime: 637872086387558579
   cacheVersion: 10
 --- !u!114 &156782706801910945
 MonoBehaviour:
@@ -2324,7 +1420,7 @@ MonoBehaviour:
   Path: ccstudio/Build/Desktop/Airplane.bank
   Name: Airplane
   StudioPath: bank:/Airplane
-  lastModified: 637875448213279321
+  lastModified: 637872086385546944
   FileSizes:
   - Name: Desktop
     Value: 229440
@@ -2377,30 +1473,6 @@ MonoBehaviour:
   IsGlobal: 0
   Labels: []
   Exists: 1
---- !u!114 &577704804560877988
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
-  m_Name: parameter:/Piano Roll/Sitar D7 4 Active
-  m_EditorClassIdentifier: 
-  Name: Sitar D7 4 Active
-  StudioPath: 
-  Min: 0
-  Max: 1
-  Default: 0
-  ID:
-    data1: 3541721032
-    data2: 4110010359
-  Type: 1
-  IsGlobal: 0
-  Labels: []
-  Exists: 1
 --- !u!114 &622283723452060107
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2449,30 +1521,6 @@ MonoBehaviour:
   IsGlobal: 0
   Labels: []
   Exists: 1
---- !u!114 &668026375287191986
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
-  m_Name: parameter:/Piano Roll/Dizi E-4 3 Active
-  m_EditorClassIdentifier: 
-  Name: Dizi E-4 3 Active
-  StudioPath: 
-  Min: 0
-  Max: 1
-  Default: 0
-  ID:
-    data1: 2227167717
-    data2: 504243348
-  Type: 1
-  IsGlobal: 0
-  Labels: []
-  Exists: 1
 --- !u!114 &758884289204545732
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2493,30 +1541,6 @@ MonoBehaviour:
   ID:
     data1: 3245958980
     data2: 2030349217
-  Type: 1
-  IsGlobal: 0
-  Labels: []
-  Exists: 1
---- !u!114 &791414693206381003
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
-  m_Name: parameter:/Piano Roll/Dizi D-4 1 Active
-  m_EditorClassIdentifier: 
-  Name: Dizi D-4 1 Active
-  StudioPath: 
-  Min: 0
-  Max: 1
-  Default: 0
-  ID:
-    data1: 2677975296
-    data2: 16807961
   Type: 1
   IsGlobal: 0
   Labels: []
@@ -2548,54 +1572,6 @@ MonoBehaviour:
   MinDistance: 1
   MaxDistance: 20
   Length: 0
---- !u!114 &1110393043078147026
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
-  m_Name: parameter:/Piano Roll/Clave 4 Active
-  m_EditorClassIdentifier: 
-  Name: Clave 4 Active
-  StudioPath: 
-  Min: 0
-  Max: 1
-  Default: 0
-  ID:
-    data1: 2923113609
-    data2: 2799167746
-  Type: 1
-  IsGlobal: 0
-  Labels: []
-  Exists: 1
---- !u!114 &1172618062835540785
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
-  m_Name: parameter:/Piano Roll/Clave 1 Active
-  m_EditorClassIdentifier: 
-  Name: Clave 1 Active
-  StudioPath: 
-  Min: 0
-  Max: 1
-  Default: 0
-  ID:
-    data1: 2561538673
-    data2: 2326930752
-  Type: 1
-  IsGlobal: 0
-  Labels: []
-  Exists: 1
 --- !u!114 &1206220443621285789
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2623,54 +1599,6 @@ MonoBehaviour:
   MinDistance: 1
   MaxDistance: 20
   Length: 0
---- !u!114 &1301600067935072698
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
-  m_Name: parameter:/Piano Roll/Clave &4 Active
-  m_EditorClassIdentifier: 
-  Name: Clave &4 Active
-  StudioPath: 
-  Min: 0
-  Max: 1
-  Default: 0
-  ID:
-    data1: 440178905
-    data2: 197250247
-  Type: 1
-  IsGlobal: 0
-  Labels: []
-  Exists: 1
---- !u!114 &1646978846269074439
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
-  m_Name: parameter:/Piano Roll/Clave High &1 Active
-  m_EditorClassIdentifier: 
-  Name: Clave High &1 Active
-  StudioPath: 
-  Min: 0
-  Max: 1
-  Default: 0
-  ID:
-    data1: 2306438644
-    data2: 2451830483
-  Type: 1
-  IsGlobal: 0
-  Labels: []
-  Exists: 1
 --- !u!114 &1670619673684402130
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2746,78 +1674,6 @@ MonoBehaviour:
   MinDistance: 1
   MaxDistance: 20
   Length: 0
---- !u!114 &1975788939115011892
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
-  m_Name: parameter:/Piano Roll/Clave High 3 Active
-  m_EditorClassIdentifier: 
-  Name: Clave High 3 Active
-  StudioPath: 
-  Min: 0
-  Max: 1
-  Default: 0
-  ID:
-    data1: 835060545
-    data2: 722406711
-  Type: 1
-  IsGlobal: 0
-  Labels: []
-  Exists: 1
---- !u!114 &1976791501294725176
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
-  m_Name: parameter:/Piano Roll/Clave &3 Active
-  m_EditorClassIdentifier: 
-  Name: Clave &3 Active
-  StudioPath: 
-  Min: 0
-  Max: 1
-  Default: 0
-  ID:
-    data1: 2336227658
-    data2: 1732344707
-  Type: 1
-  IsGlobal: 0
-  Labels: []
-  Exists: 1
---- !u!114 &2124873213115908721
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
-  m_Name: parameter:/Piano Roll/Sitar G7 2 Active
-  m_EditorClassIdentifier: 
-  Name: Sitar G7 2 Active
-  StudioPath: 
-  Min: 0
-  Max: 1
-  Default: 0
-  ID:
-    data1: 3297704244
-    data2: 3621901792
-  Type: 1
-  IsGlobal: 0
-  Labels: []
-  Exists: 1
 --- !u!114 &2263509495468414923
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2893,30 +1749,6 @@ MonoBehaviour:
   IsGlobal: 0
   Labels: []
   Exists: 1
---- !u!114 &2654420982881415924
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
-  m_Name: parameter:/Piano Roll/Dizi G-4 3 Active
-  m_EditorClassIdentifier: 
-  Name: Dizi G-4 3 Active
-  StudioPath: 
-  Min: 0
-  Max: 1
-  Default: 0
-  ID:
-    data1: 4197511741
-    data2: 173652173
-  Type: 1
-  IsGlobal: 0
-  Labels: []
-  Exists: 1
 --- !u!114 &2862866989238885488
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2956,7 +1788,7 @@ MonoBehaviour:
   Path: ccstudio/Build/Desktop/Master.bank
   Name: Master
   StudioPath: bank:/Master
-  lastModified: 637875448215935130
+  lastModified: 637872086385960483
   FileSizes:
   - Name: Desktop
     Value: 1036
@@ -3060,54 +1892,6 @@ MonoBehaviour:
   IsGlobal: 0
   Labels: []
   Exists: 1
---- !u!114 &3284364906937197746
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
-  m_Name: parameter:/Piano Roll/Dizi A-4 1 Active
-  m_EditorClassIdentifier: 
-  Name: Dizi A-4 1 Active
-  StudioPath: 
-  Min: 0
-  Max: 1
-  Default: 0
-  ID:
-    data1: 2177917632
-    data2: 674579943
-  Type: 1
-  IsGlobal: 0
-  Labels: []
-  Exists: 1
---- !u!114 &3466662596288363736
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
-  m_Name: parameter:/Piano Roll/Clave Low &2 Active
-  m_EditorClassIdentifier: 
-  Name: Clave Low &2 Active
-  StudioPath: 
-  Min: 0
-  Max: 1
-  Default: 0
-  ID:
-    data1: 3582511026
-    data2: 4233577630
-  Type: 1
-  IsGlobal: 0
-  Labels: []
-  Exists: 1
 --- !u!114 &3524451299317843831
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3128,30 +1912,6 @@ MonoBehaviour:
   ID:
     data1: 1572568558
     data2: 4077905746
-  Type: 1
-  IsGlobal: 0
-  Labels: []
-  Exists: 1
---- !u!114 &3524812542856030133
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
-  m_Name: parameter:/Piano Roll/Dizi G-4 2 Active
-  m_EditorClassIdentifier: 
-  Name: Dizi G-4 2 Active
-  StudioPath: 
-  Min: 0
-  Max: 1
-  Default: 0
-  ID:
-    data1: 3074033424
-    data2: 810191342
   Type: 1
   IsGlobal: 0
   Labels: []
@@ -3180,30 +1940,6 @@ MonoBehaviour:
   IsGlobal: 0
   Labels: []
   Exists: 1
---- !u!114 &3579905227033554379
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
-  m_Name: parameter:/Piano Roll/Clave &2 Active
-  m_EditorClassIdentifier: 
-  Name: Clave &2 Active
-  StudioPath: 
-  Min: 0
-  Max: 1
-  Default: 0
-  ID:
-    data1: 3357741497
-    data2: 1961476516
-  Type: 1
-  IsGlobal: 0
-  Labels: []
-  Exists: 1
 --- !u!114 &3620334716804157391
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3219,34 +1955,10 @@ MonoBehaviour:
   Path: ccstudio/Build/Desktop/Master.strings.bank
   Name: Master.strings
   StudioPath: bank:/Master.strings
-  lastModified: 637875448215966323
+  lastModified: 637872086385980430
   FileSizes:
   - Name: Desktop
-    Value: 8194
-  Exists: 1
---- !u!114 &3684434665716907606
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
-  m_Name: parameter:/Piano Roll/Sitar C7 2 Active
-  m_EditorClassIdentifier: 
-  Name: Sitar C7 2 Active
-  StudioPath: 
-  Min: 0
-  Max: 1
-  Default: 0
-  ID:
-    data1: 2896641448
-    data2: 782472509
-  Type: 1
-  IsGlobal: 0
-  Labels: []
+    Value: 5402
   Exists: 1
 --- !u!114 &3779112025047796996
 MonoBehaviour:
@@ -3272,30 +1984,6 @@ MonoBehaviour:
   IsGlobal: 0
   Labels: []
   Exists: 1
---- !u!114 &3881228816124017324
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
-  m_Name: parameter:/Piano Roll/Dizi C-4 3 Active
-  m_EditorClassIdentifier: 
-  Name: Dizi C-4 3 Active
-  StudioPath: 
-  Min: 0
-  Max: 1
-  Default: 0
-  ID:
-    data1: 1417878934
-    data2: 1320307495
-  Type: 1
-  IsGlobal: 0
-  Labels: []
-  Exists: 1
 --- !u!114 &3928154549059189628
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3316,54 +2004,6 @@ MonoBehaviour:
   ID:
     data1: 1271612005
     data2: 3539754375
-  Type: 1
-  IsGlobal: 0
-  Labels: []
-  Exists: 1
---- !u!114 &3986944872701544568
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
-  m_Name: parameter:/Piano Roll/Sitar F7 4 Active
-  m_EditorClassIdentifier: 
-  Name: Sitar F7 4 Active
-  StudioPath: 
-  Min: 0
-  Max: 1
-  Default: 0
-  ID:
-    data1: 71393662
-    data2: 3956756985
-  Type: 1
-  IsGlobal: 0
-  Labels: []
-  Exists: 1
---- !u!114 &4095987322629133114
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
-  m_Name: parameter:/Piano Roll/Sitar D7 3 Active
-  m_EditorClassIdentifier: 
-  Name: Sitar D7 3 Active
-  StudioPath: 
-  Min: 0
-  Max: 1
-  Default: 0
-  ID:
-    data1: 1801734393
-    data2: 2126753431
   Type: 1
   IsGlobal: 0
   Labels: []
@@ -3436,30 +2076,6 @@ MonoBehaviour:
   ID:
     data1: 4125128855
     data2: 530034683
-  Type: 1
-  IsGlobal: 0
-  Labels: []
-  Exists: 1
---- !u!114 &4517569291458883354
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
-  m_Name: 'parameter:/Piano Roll/Sitar D7 1 Active '
-  m_EditorClassIdentifier: 
-  Name: 'Sitar D7 1 Active '
-  StudioPath: 
-  Min: 0
-  Max: 1
-  Default: 0
-  ID:
-    data1: 4004825123
-    data2: 3817679013
   Type: 1
   IsGlobal: 0
   Labels: []
@@ -3608,30 +2224,6 @@ MonoBehaviour:
   IsGlobal: 0
   Labels: []
   Exists: 1
---- !u!114 &5590683214082794931
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
-  m_Name: parameter:/Piano Roll/Sitar E7 2 Active
-  m_EditorClassIdentifier: 
-  Name: Sitar E7 2 Active
-  StudioPath: 
-  Min: 0
-  Max: 1
-  Default: 0
-  ID:
-    data1: 1346327286
-    data2: 3108765376
-  Type: 1
-  IsGlobal: 0
-  Labels: []
-  Exists: 1
 --- !u!114 &5645171423065562092
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3752,54 +2344,6 @@ MonoBehaviour:
   IsGlobal: 0
   Labels: []
   Exists: 1
---- !u!114 &6102437470166020122
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
-  m_Name: parameter:/Piano Roll/Dizi A-4 2 Active
-  m_EditorClassIdentifier: 
-  Name: Dizi A-4 2 Active
-  StudioPath: 
-  Min: 0
-  Max: 1
-  Default: 0
-  ID:
-    data1: 1543672600
-    data2: 2643132684
-  Type: 1
-  IsGlobal: 0
-  Labels: []
-  Exists: 1
---- !u!114 &6131205452484934476
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
-  m_Name: parameter:/Piano Roll/Sitar F7 2 Active
-  m_EditorClassIdentifier: 
-  Name: Sitar F7 2 Active
-  StudioPath: 
-  Min: 0
-  Max: 1
-  Default: 0
-  ID:
-    data1: 1696574273
-    data2: 3860008247
-  Type: 1
-  IsGlobal: 0
-  Labels: []
-  Exists: 1
 --- !u!114 &6374848895609417937
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3872,30 +2416,6 @@ MonoBehaviour:
   IsGlobal: 0
   Labels: []
   Exists: 1
---- !u!114 &6968936445637900969
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
-  m_Name: parameter:/Piano Roll/Sitar G7 1 Active
-  m_EditorClassIdentifier: 
-  Name: Sitar G7 1 Active
-  StudioPath: 
-  Min: 0
-  Max: 1
-  Default: 0
-  ID:
-    data1: 1268803173
-    data2: 2463797314
-  Type: 1
-  IsGlobal: 0
-  Labels: []
-  Exists: 1
 --- !u!114 &7073360931903791961
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3940,30 +2460,6 @@ MonoBehaviour:
   ID:
     data1: 3204747064
     data2: 2309463082
-  Type: 1
-  IsGlobal: 0
-  Labels: []
-  Exists: 1
---- !u!114 &7155013670210397054
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
-  m_Name: parameter:/Piano Roll/Dizi A-4 4 Active
-  m_EditorClassIdentifier: 
-  Name: Dizi A-4 4 Active
-  StudioPath: 
-  Min: 0
-  Max: 1
-  Default: 0
-  ID:
-    data1: 3185356255
-    data2: 3918771414
   Type: 1
   IsGlobal: 0
   Labels: []
@@ -4016,30 +2512,6 @@ MonoBehaviour:
   IsGlobal: 0
   Labels: []
   Exists: 1
---- !u!114 &7633711525798916323
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
-  m_Name: parameter:/Piano Roll/Sitar C7 4 Active
-  m_EditorClassIdentifier: 
-  Name: Sitar C7 4 Active
-  StudioPath: 
-  Min: 0
-  Max: 1
-  Default: 0
-  ID:
-    data1: 3058717881
-    data2: 805400197
-  Type: 1
-  IsGlobal: 0
-  Labels: []
-  Exists: 1
 --- !u!114 &7636396867427547872
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -4060,30 +2532,6 @@ MonoBehaviour:
   ID:
     data1: 3519285888
     data2: 1696490886
-  Type: 1
-  IsGlobal: 0
-  Labels: []
-  Exists: 1
---- !u!114 &7696949191628674159
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
-  m_Name: parameter:/Piano Roll/Clave Low &4 Active
-  m_EditorClassIdentifier: 
-  Name: Clave Low &4 Active
-  StudioPath: 
-  Min: 0
-  Max: 1
-  Default: 0
-  ID:
-    data1: 890804869
-    data2: 2541274361
   Type: 1
   IsGlobal: 0
   Labels: []
@@ -4160,30 +2608,6 @@ MonoBehaviour:
   IsGlobal: 0
   Labels: []
   Exists: 1
---- !u!114 &8185147809354628291
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
-  m_Name: parameter:/Piano Roll/Clave High &4 Active
-  m_EditorClassIdentifier: 
-  Name: Clave High &4 Active
-  StudioPath: 
-  Min: 0
-  Max: 1
-  Default: 0
-  ID:
-    data1: 1730972311
-    data2: 3323279483
-  Type: 1
-  IsGlobal: 0
-  Labels: []
-  Exists: 1
 --- !u!114 &8460908397036243666
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -4204,30 +2628,6 @@ MonoBehaviour:
   ID:
     data1: 2533590325
     data2: 2526996990
-  Type: 1
-  IsGlobal: 0
-  Labels: []
-  Exists: 1
---- !u!114 &8571047558860520257
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
-  m_Name: parameter:/Piano Roll/Clave High &3 Active
-  m_EditorClassIdentifier: 
-  Name: Clave High &3 Active
-  StudioPath: 
-  Min: 0
-  Max: 1
-  Default: 0
-  ID:
-    data1: 1871317989
-    data2: 3392064787
   Type: 1
   IsGlobal: 0
   Labels: []
