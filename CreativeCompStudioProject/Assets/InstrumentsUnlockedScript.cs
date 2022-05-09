@@ -6,6 +6,7 @@ public class InstrumentsUnlockedScript : MonoBehaviour
 {
     public GameObject TRUMPET, FLUTE, PIANO, GUITAR, DIZI, SITAR, CLAVE, LAANTARA;
     public GameObject MANDALA, KALIMBA;
+    public GameObject Message;
     int trumpetWin, fluteWin, guitarWin, pianoWin, diziWin, sitarWin, claveWin, laWin;
     int manWin, kalimbaWin;
     // Start is called before the first frame update
@@ -24,6 +25,12 @@ public class InstrumentsUnlockedScript : MonoBehaviour
 
         //Debug.Log("TRUMPET IS " + trumpetWin);
         //Debug.Log("FLUTE IS " + fluteWin);
+        if (trumpetWin == 0 & fluteWin == 0 & guitarWin == 0 & pianoWin == 0
+            & diziWin == 0 & sitarWin == 0 & claveWin == 0 & laWin == 0 & manWin == 0 & kalimbaWin == 0)
+            Message.SetActive(true);
+        else
+            Message.SetActive(false);
+
         if (trumpetWin == 1)
             TRUMPET.SetActive(true);
         else
