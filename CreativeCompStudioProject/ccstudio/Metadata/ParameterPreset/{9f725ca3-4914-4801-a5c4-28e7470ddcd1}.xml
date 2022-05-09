@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="ParameterPreset" id="{9f725ca3-4914-4801-a5c4-28e7470ddcd1}">
+		<property name="name">
+			<value>Mando C 4 Active</value>
+		</property>
+		<relationship name="folder">
+			<destination>{c8af1656-9543-490d-9f92-71fa3c25838b}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{e9db41bf-8b04-42a8-b100-0ca04225b613}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{e9db41bf-8b04-42a8-b100-0ca04225b613}">
+		<property name="parameterType">
+			<value>1</value>
+		</property>
+		<property name="maximum">
+			<value>2</value>
+		</property>
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+	</object>
+</objects>

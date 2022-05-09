@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{b77916d9-aa11-4e39-946f-c58923eeac1e}">
+		<property name="assetPath">
+			<value>kalimba-f3.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>0.78405895691609973</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{f68a1cd6-e0d4-4b46-8ddb-ab6d82ac74b4}</destination>
+		</relationship>
+	</object>
+</objects>

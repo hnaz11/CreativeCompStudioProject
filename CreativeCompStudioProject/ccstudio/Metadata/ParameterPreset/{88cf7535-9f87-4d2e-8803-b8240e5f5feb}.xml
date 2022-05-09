@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="ParameterPreset" id="{88cf7535-9f87-4d2e-8803-b8240e5f5feb}">
+		<property name="name">
+			<value>Kalimba B3 3 Active</value>
+		</property>
+		<relationship name="folder">
+			<destination>{c8af1656-9543-490d-9f92-71fa3c25838b}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{57ca2a1d-e6cf-4cc1-b0c7-6d0740c313cd}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{57ca2a1d-e6cf-4cc1-b0c7-6d0740c313cd}">
+		<property name="parameterType">
+			<value>1</value>
+		</property>
+		<property name="maximum">
+			<value>2</value>
+		</property>
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+	</object>
+</objects>

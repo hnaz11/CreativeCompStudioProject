@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="ParameterPreset" id="{37c58f27-41ae-4afc-b4ee-11e919567429}">
+		<property name="name">
+			<value>Trumpet B3 3 Active</value>
+		</property>
+		<relationship name="folder">
+			<destination>{c8af1656-9543-490d-9f92-71fa3c25838b}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{d457bf68-38fe-448a-813d-98a836edc4a0}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{d457bf68-38fe-448a-813d-98a836edc4a0}">
+		<property name="parameterType">
+			<value>1</value>
+		</property>
+		<property name="maximum">
+			<value>2</value>
+		</property>
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+	</object>
+</objects>

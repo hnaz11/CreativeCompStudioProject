@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="ParameterPreset" id="{f0eb2f73-af44-435b-a110-a9a7895f6a2d}">
+		<property name="name">
+			<value>Rec G 2 Active</value>
+		</property>
+		<relationship name="folder">
+			<destination>{c8af1656-9543-490d-9f92-71fa3c25838b}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{f0496733-31a2-480a-85f2-0a47b5457565}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{f0496733-31a2-480a-85f2-0a47b5457565}">
+		<property name="parameterType">
+			<value>1</value>
+		</property>
+		<property name="maximum">
+			<value>2</value>
+		</property>
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+	</object>
+</objects>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="ParameterPreset" id="{057195bb-e66e-4e6d-8635-5a63f0d8f206}">
+		<property name="name">
+			<value>Mando G 3 Active</value>
+		</property>
+		<relationship name="folder">
+			<destination>{c8af1656-9543-490d-9f92-71fa3c25838b}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{611e7915-d7e1-4cc6-aedb-b3b5a941b700}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{611e7915-d7e1-4cc6-aedb-b3b5a941b700}">
+		<property name="parameterType">
+			<value>1</value>
+		</property>
+		<property name="maximum">
+			<value>2</value>
+		</property>
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+	</object>
+</objects>
