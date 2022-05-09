@@ -13,21 +13,13 @@ This entire project was completed using Unity 2D (C#), FMOD Studio, and Ableton.
 
 ## Getting Started
 
-OPTION 1:
-
 Within this project directory, navigate to:
 
-### `./CreativeCompStudioProject/CreativeCompStudioProject/CreativeCompStudioProject.exe`
+### `./CreativeCompStudioProject/CreativeCompStudioProject/Assets/CreativeCompStudioProject.zip`
 
-This executable can be run to view and play our game full screen.
-
-To exit this executable:
-For Windows: Click on your windows key to navigate to another application
-
-OPTION 2:
-
-Make sure Unity Hub is installed on your PC. Clone this git repository on your local device.
-Open Unity. Select Open > Add project from disk > Select the cloned repository folder from your file manager.
+1. Download this zip folder
+2. Extract the contents of the folder
+3. Open `./CreativeCompStudioProject.exe` to play our game in full screen
 
 ## File Organization
 
