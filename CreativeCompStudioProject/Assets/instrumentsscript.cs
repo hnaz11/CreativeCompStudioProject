@@ -6,6 +6,6 @@ using UnityEngine.SceneManagement;
 public class instrumentsscript : MonoBehaviour
 {
     public void OnButtonPress(){
-        SceneManager.LoadScene(29);
+        SceneManager.LoadScene(28);
     }
 }

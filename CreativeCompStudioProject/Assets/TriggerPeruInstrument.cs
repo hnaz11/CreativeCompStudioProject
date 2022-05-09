@@ -7,6 +7,6 @@ public class TriggerPeruInstrument : MonoBehaviour
 {
     void OnTriggerEnter2D(Collider2D other)
     {
-        SceneManager.LoadScene(28);
+        SceneManager.LoadScene(27);
     }
 }

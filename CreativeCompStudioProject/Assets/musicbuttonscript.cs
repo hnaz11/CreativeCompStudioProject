@@ -6,6 +6,6 @@ using UnityEngine.SceneManagement;
 public class musicbuttonscript : MonoBehaviour
 {
     public void OnButtonPress(){
-        SceneManager.LoadScene(27);
+        SceneManager.LoadScene(29);
     }
 }
