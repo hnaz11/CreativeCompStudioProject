@@ -369,6 +369,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6e469c811236c46c7a9f1ec876c55dfc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  button: {fileID: 0}
 --- !u!4 &546353405
 Transform:
   m_ObjectHideFlags: 0
@@ -948,7 +949,7 @@ GameObject:
   - component: {fileID: 1309976615}
   - component: {fileID: 1309976614}
   m_Layer: 5
-  m_Name: Make Music
+  m_Name: MakeMusic
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0

@@ -18,13 +18,28 @@ public class instrumentTransitionButton : MonoBehaviour
     GameObject sitar;
 
     private GameObject active;
+    int trumpetWin, fluteWin, guitarWin, pianoWin, diziWin, sitarWin, claveWin, laWin;
+    int manWin, kalimbaWin;
 
     public void Start() {
+        trumpetWin = PlayerPrefs.GetInt("TrumpetWin");
+        fluteWin = PlayerPrefs.GetInt("FluteWin");
+        guitarWin = PlayerPrefs.GetInt("GuitarWin");
+        pianoWin = PlayerPrefs.GetInt("PianoWin");
+        diziWin = PlayerPrefs.GetInt("DiziWin");
+        sitarWin = PlayerPrefs.GetInt("SitarWin");
+        claveWin = PlayerPrefs.GetInt("ClaveWin");
+        laWin = PlayerPrefs.GetInt("LaWin");
+        manWin = PlayerPrefs.GetInt("ManWin");
+        kalimbaWin = PlayerPrefs.GetInt("KalimbaWin");
         guitar.SetActive(false);
         dizi.SetActive(false);
         sitar.SetActive(false);
         clave.SetActive(false); 
         active = piano;
+        // if(pianoWin == 1){
+        //     active = piano;
+        // }
     }
 
     public void PianoPress() {
