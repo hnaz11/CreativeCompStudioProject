@@ -39,7 +39,7 @@ public class noteClick : MonoBehaviour
         if (obj.GetComponent<customTag>().hasTag("inactive")) {
             objSprite.sprite = clicked;
             obj.GetComponent<customTag>().rename(0, "active");
-           // Debug.Log(obj.GetComponent<customTag>().getAtIndex(1));
+            Debug.Log(obj.GetComponent<customTag>().getAtIndex(1));
             instance.setParameterByName(obj.GetComponent<customTag>().getAtIndex(1) + " Active", 1);
 
         }
