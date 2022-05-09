@@ -13,6 +13,8 @@ This entire project was completed using Unity 2D (C#), FMOD Studio, and Ableton.
 
 ## Getting Started
 
+OPTION 1:
+
 Within this project directory, navigate to:
 
 ### `./CreativeCompStudioProject/CreativeCompStudioProject/CreativeCompStudioProject.exe`
@@ -21,7 +23,11 @@ This executable can be run to view and play our game full screen.
 
 To exit this executable:
 For Windows: Click on your windows key to navigate to another application
-For Mac:
+
+OPTION 2:
+
+Make sure Unity Hub is installed on your PC. Clone this git repository on your local device.
+Open Unity. Select Open > Add project from disk > Select the cloned repository folder from your file manager.
 
 ## File Organization
 
@@ -36,6 +42,8 @@ This file contains all images, scripts, and scenes used to create our game. Scrp
 Scenes within Unity are the primary contents within the game. Scenes are categorized by the overall region, map, or country. We also have a WelcomeScreen Scene and a HowToPlay scene. Each scene file encompasses images, scripts, and different unity objects.
 
 ## Missing Elements
+
+The user must unlock all 10 instruments before being able to conduct their international orchestra within the Instrument Room.
 
 ## Coding Resources
 
