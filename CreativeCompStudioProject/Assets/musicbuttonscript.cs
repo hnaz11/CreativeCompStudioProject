@@ -26,8 +26,8 @@ public class musicbuttonscript : MonoBehaviour
     }
 
     public void OnButtonPress(){
-        if(pianoWin == 1 || fluteWin == 1 || guitarWin == 1 || pianoWin == 1 || diziWin == 1 ||
-            sitarWin == 1 || claveWin == 1 || laWin == 1 || manWin == 1 || kalimbaWin == 1){
+        if(pianoWin == 1 && fluteWin == 1 && guitarWin == 1 && pianoWin == 1 && diziWin == 1 &&
+            sitarWin == 1 && claveWin == 1 && laWin == 1 && manWin == 1 && kalimbaWin == 1){
             SceneManager.LoadScene(29);
         }else{
             button.interactable = false;

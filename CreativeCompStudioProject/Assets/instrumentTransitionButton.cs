@@ -28,7 +28,8 @@ public class instrumentTransitionButton : MonoBehaviour
     GameObject kalimba;
 
     private GameObject active;
-    //private GameObject pianoButton, guitarB, trumpetB, fluteB, diziB, sitarB, claveB, laB, manB, kalB;
+    private GameObject pianoButton, guitarB, fluteB, diziB, sitarB, claveB, laB, manB, kalB;
+    private GameObject trumpetB;
     int trumpetWin, fluteWin, guitarWin, pianoWin, diziWin, sitarWin, claveWin, laWin;
     int manWin, kalimbaWin;
 
@@ -43,9 +44,17 @@ public class instrumentTransitionButton : MonoBehaviour
         laWin = PlayerPrefs.GetInt("LaWin");
         manWin = PlayerPrefs.GetInt("ManWin");
         kalimbaWin = PlayerPrefs.GetInt("KalimbaWin");
-        //pianoButton = GameObject.Find("Piano Button");
-        //guitarB = GameObject.Find("Guitar Button");
 
+        // pianoButton = GameObject.FindWithTag("PianoButton");
+        // guitarB = GameObject.FindWithTag("guitar");
+        // trumpetB = GameObject.FindWithTag("trumpet");
+        // fluteB = GameObject.FindWithTag("flute");
+        // diziB = GameObject.FindWithTag("dizi");
+        // sitarB = GameObject.FindWithTag("sitar");
+        // claveB = GameObject.FindWithTag("clave");
+        // laB = GameObject.FindWithTag("antara");
+        // manB = GameObject.FindWithTag("mandole");
+        // kalB = GameObject.FindWithTag("kalimba");
         guitar.SetActive(false);
         dizi.SetActive(false);
         sitar.SetActive(false);
@@ -56,26 +65,10 @@ public class instrumentTransitionButton : MonoBehaviour
         mandole.SetActive(false);
         kalimba.SetActive(false);
         active = piano;
-        // if(guitarWin == 1){
-        //     guitar.SetActive(true);
-        //     active = guitar;
-        //     guitar.SetActive(false);
-        //     dizi.SetActive(false);
-        //     sitar.SetActive(false);
-        //     clave.SetActive(false);
-        //     antara.SetActive(false); 
-        //     flute.SetActive(false);
-        //     trumpet.SetActive(false);
-        //     mandole.SetActive(false);
-        //     kalimba.SetActive(false);
-        //     if(pianoWin != 1){
-        //         pianoButton.SetActive(false);
-        //     }
-
-        // }
     }
 
     public void PianoPress() {
+        //checkActiveButtons();
         active.SetActive(false);
         piano.SetActive(true);
         active = piano;
@@ -134,4 +127,39 @@ public class instrumentTransitionButton : MonoBehaviour
         kalimba.SetActive(true);
         active = kalimba;
     }
+
+    // public void checkActiveButtons(){
+    //     if(pianoWin != 1){
+    //         //Debug.Log("PIANO");
+    //         pianoButton.SetActive(false);
+    //     }
+    //     if(guitarWin != 1){
+    //         guitarB.SetActive(false);
+    //     }
+    //     if(trumpetWin != 1){
+    //         trumpetB.SetActive(false);
+    //     }
+    //     if(diziWin != 1){
+    //         diziB.SetActive(false);
+    //     }
+    //     if(sitarWin != 1){
+    //         sitarB.SetActive(false);
+    //     }
+    //     if(claveWin != 1){
+    //         claveB.SetActive(false);
+    //     }
+    //     if(laWin != 1){
+    //         laB.SetActive(false);
+    //     }
+    //     if(fluteWin != 1){
+    //         fluteB.SetActive(false);
+    //     }
+    //     if(manWin != 1){
+    //         manB.SetActive(false);
+    //     }
+    //     if(kalimbaWin != 1){
+    //         kalB.SetActive(false);
+    //     }
+
+    // }
 }

@@ -25,8 +25,8 @@ public class InstrumentsUnlockedScript : MonoBehaviour
 
         //Debug.Log("TRUMPET IS " + trumpetWin);
         //Debug.Log("FLUTE IS " + fluteWin);
-        if (trumpetWin == 0 & fluteWin == 0 & guitarWin == 0 & pianoWin == 0
-            & diziWin == 0 & sitarWin == 0 & claveWin == 0 & laWin == 0 & manWin == 0 & kalimbaWin == 0)
+        if (trumpetWin != 1 || fluteWin != 1 || guitarWin != 1 || pianoWin != 1
+            || diziWin != 1 || sitarWin != 1 || claveWin != 1 || laWin != 1 || manWin != 1 || kalimbaWin != 1)
             Message.SetActive(true);
         else
             Message.SetActive(false);

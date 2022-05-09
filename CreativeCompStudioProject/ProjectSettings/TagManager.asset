@@ -12,6 +12,26 @@ TagManager:
   - isDisabled
   - Guitar
   - Piano
+  - GuitarButton
+  - PianoButton
+  - TrumpetButton
+  - FluteButton
+  - DiziButton
+  - SitarButton
+  - ClaveButton
+  - AntaraButton
+  - MandoleButton
+  - KalimbaButton
+  - trumpet
+  - dizi
+  - clave
+  - antara
+  - flute
+  - kalimba
+  - mandole
+  - sitar
+  - piano
+  - guitar
   layers:
   - Default
   - TransparentFX

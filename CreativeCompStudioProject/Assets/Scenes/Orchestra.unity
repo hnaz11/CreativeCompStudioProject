@@ -476,7 +476,7 @@ GameObject:
   - component: {fileID: 9290676}
   m_Layer: 5
   m_Name: Antara Button
-  m_TagString: Untagged
+  m_TagString: antara
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1144,7 +1144,7 @@ GameObject:
   - component: {fileID: 42825726}
   m_Layer: 5
   m_Name: Sitar Button
-  m_TagString: Untagged
+  m_TagString: SitarButton
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1452,7 +1452,7 @@ GameObject:
   - component: {fileID: 59933182}
   m_Layer: 5
   m_Name: Mandole Button
-  m_TagString: Untagged
+  m_TagString: MandoleButton
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2229,7 +2229,7 @@ GameObject:
   - component: {fileID: 105909979}
   m_Layer: 5
   m_Name: 'Dizi  Button '
-  m_TagString: Untagged
+  m_TagString: DiziButton
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2361,7 +2361,7 @@ GameObject:
   - component: {fileID: 110207735}
   m_Layer: 5
   m_Name: Trumpet Button
-  m_TagString: Untagged
+  m_TagString: trumpet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3171,7 +3171,7 @@ GameObject:
   - component: {fileID: 127183935}
   m_Layer: 5
   m_Name: Sitar Button
-  m_TagString: Untagged
+  m_TagString: SitarButton
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3303,7 +3303,7 @@ GameObject:
   - component: {fileID: 128017956}
   m_Layer: 5
   m_Name: Guitar Button
-  m_TagString: Untagged
+  m_TagString: GuitarButton
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3435,7 +3435,7 @@ GameObject:
   - component: {fileID: 128186618}
   m_Layer: 5
   m_Name: Clave Button
-  m_TagString: Untagged
+  m_TagString: ClaveButton
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3568,7 +3568,7 @@ GameObject:
   - component: {fileID: 128887970}
   m_Layer: 5
   m_Name: Kalimba Button
-  m_TagString: Untagged
+  m_TagString: KalimbaButton
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4344,7 +4344,7 @@ GameObject:
   - component: {fileID: 185390439}
   m_Layer: 5
   m_Name: Trumpet Button
-  m_TagString: Untagged
+  m_TagString: TrumpetButton
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -5281,7 +5281,7 @@ GameObject:
   - component: {fileID: 231110419}
   m_Layer: 5
   m_Name: 'Dizi  Button '
-  m_TagString: Untagged
+  m_TagString: dizi
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -5631,7 +5631,7 @@ GameObject:
   - component: {fileID: 252808174}
   m_Layer: 5
   m_Name: Clave Button
-  m_TagString: Untagged
+  m_TagString: clave
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -5764,7 +5764,7 @@ GameObject:
   - component: {fileID: 263981178}
   m_Layer: 5
   m_Name: 'Dizi  Button '
-  m_TagString: Untagged
+  m_TagString: DiziButton
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -6123,7 +6123,7 @@ GameObject:
   - component: {fileID: 272146914}
   m_Layer: 5
   m_Name: 'Dizi  Button '
-  m_TagString: Untagged
+  m_TagString: DiziButton
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -7928,7 +7928,7 @@ GameObject:
   - component: {fileID: 366382181}
   m_Layer: 5
   m_Name: Clave Button
-  m_TagString: Untagged
+  m_TagString: ClaveButton
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -8287,7 +8287,7 @@ GameObject:
   - component: {fileID: 389471922}
   m_Layer: 5
   m_Name: 'Dizi  Button '
-  m_TagString: Untagged
+  m_TagString: dizi
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -8533,7 +8533,7 @@ GameObject:
   - component: {fileID: 393541747}
   m_Layer: 5
   m_Name: Flute Button
-  m_TagString: Untagged
+  m_TagString: FluteButton
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -8891,7 +8891,7 @@ GameObject:
   - component: {fileID: 405022148}
   m_Layer: 5
   m_Name: Guitar Button
-  m_TagString: Untagged
+  m_TagString: GuitarButton
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -9423,7 +9423,7 @@ GameObject:
   - component: {fileID: 423291326}
   m_Layer: 5
   m_Name: Piano Button
-  m_TagString: Untagged
+  m_TagString: PianoButton
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -10233,7 +10233,7 @@ GameObject:
   - component: {fileID: 449173973}
   m_Layer: 5
   m_Name: Mandole Button
-  m_TagString: Untagged
+  m_TagString: MandoleButton
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -10479,7 +10479,7 @@ GameObject:
   - component: {fileID: 451301886}
   m_Layer: 5
   m_Name: Flute Button
-  m_TagString: Untagged
+  m_TagString: flute
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -10950,7 +10950,7 @@ GameObject:
   - component: {fileID: 460059121}
   m_Layer: 5
   m_Name: Antara Button
-  m_TagString: Untagged
+  m_TagString: AntaraButton
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -11196,7 +11196,7 @@ GameObject:
   - component: {fileID: 470693734}
   m_Layer: 5
   m_Name: Sitar Button
-  m_TagString: Untagged
+  m_TagString: SitarButton
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -11690,7 +11690,7 @@ GameObject:
   - component: {fileID: 497974105}
   m_Layer: 5
   m_Name: Trumpet Button
-  m_TagString: Untagged
+  m_TagString: TrumpetButton
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -12918,7 +12918,7 @@ GameObject:
   - component: {fileID: 555942986}
   m_Layer: 5
   m_Name: Antara Button
-  m_TagString: Untagged
+  m_TagString: antara
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -13243,7 +13243,7 @@ GameObject:
   - component: {fileID: 574006027}
   m_Layer: 5
   m_Name: Piano Button
-  m_TagString: Untagged
+  m_TagString: PianoButton
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -14418,7 +14418,7 @@ GameObject:
   - component: {fileID: 623517760}
   m_Layer: 5
   m_Name: Sitar Button
-  m_TagString: Untagged
+  m_TagString: SitarButton
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -14551,7 +14551,7 @@ GameObject:
   - component: {fileID: 624619778}
   m_Layer: 5
   m_Name: Sitar Button
-  m_TagString: Untagged
+  m_TagString: sitar
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -15407,7 +15407,7 @@ GameObject:
   - component: {fileID: 669043553}
   m_Layer: 5
   m_Name: Mandole Button
-  m_TagString: Untagged
+  m_TagString: MandoleButton
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -16184,7 +16184,7 @@ GameObject:
   - component: {fileID: 719509306}
   m_Layer: 5
   m_Name: Mandole Button
-  m_TagString: Untagged
+  m_TagString: MandoleButton
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -16829,7 +16829,7 @@ GameObject:
   - component: {fileID: 731943271}
   m_Layer: 5
   m_Name: Kalimba Button
-  m_TagString: Untagged
+  m_TagString: KalimbaButton
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -17187,7 +17187,7 @@ GameObject:
   - component: {fileID: 738658929}
   m_Layer: 5
   m_Name: Trumpet Button
-  m_TagString: Untagged
+  m_TagString: TrumpetButton
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -17745,6 +17745,7 @@ RectTransform:
   - {fileID: 1747464150}
   - {fileID: 406285028}
   - {fileID: 972669990}
+  - {fileID: 1737921191}
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -17767,7 +17768,7 @@ GameObject:
   - component: {fileID: 771669539}
   m_Layer: 5
   m_Name: Sitar Button
-  m_TagString: Untagged
+  m_TagString: sitar
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -18804,7 +18805,7 @@ GameObject:
   - component: {fileID: 804800367}
   m_Layer: 5
   m_Name: Kalimba Button
-  m_TagString: Untagged
+  m_TagString: KalimbaButton
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -19049,7 +19050,7 @@ GameObject:
   - component: {fileID: 813079475}
   m_Layer: 5
   m_Name: Flute Button
-  m_TagString: Untagged
+  m_TagString: FluteButton
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -19280,6 +19281,85 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!1 &819395251
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 819395252}
+  - component: {fileID: 819395254}
+  - component: {fileID: 819395253}
+  m_Layer: 5
+  m_Name: Text
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &819395252
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 819395251}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 1737921191}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 1, y: 1}
+  m_AnchoredPosition: {x: 0, y: 0}
+  m_SizeDelta: {x: 0, y: 0}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &819395253
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 819395251}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 0.19607843, g: 0.19607843, b: 0.19607843, a: 1}
+  m_RaycastTarget: 1
+  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
+  m_Maskable: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  m_FontData:
+    m_Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
+    m_FontSize: 14
+    m_FontStyle: 1
+    m_BestFit: 0
+    m_MinSize: 10
+    m_MaxSize: 40
+    m_Alignment: 4
+    m_AlignByGeometry: 0
+    m_RichText: 1
+    m_HorizontalOverflow: 0
+    m_VerticalOverflow: 0
+    m_LineSpacing: 1
+  m_Text: Back To Instruments
+--- !u!222 &819395254
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 819395251}
+  m_CullTransparentMesh: 1
 --- !u!1 &822582093
 GameObject:
   m_ObjectHideFlags: 0
@@ -20186,7 +20266,7 @@ GameObject:
   - component: {fileID: 854007924}
   m_Layer: 5
   m_Name: Kalimba Button
-  m_TagString: Untagged
+  m_TagString: kalimba
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -20318,11 +20398,11 @@ GameObject:
   - component: {fileID: 855441754}
   m_Layer: 5
   m_Name: Piano Button
-  m_TagString: Untagged
+  m_TagString: PianoButton
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!224 &855441753
 RectTransform:
   m_ObjectHideFlags: 0
@@ -21208,7 +21288,7 @@ GameObject:
   - component: {fileID: 878965970}
   m_Layer: 5
   m_Name: Trumpet Button
-  m_TagString: Untagged
+  m_TagString: TrumpetButton
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -21453,7 +21533,7 @@ GameObject:
   - component: {fileID: 882215682}
   m_Layer: 5
   m_Name: Mandole Button
-  m_TagString: Untagged
+  m_TagString: mandole
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -21699,7 +21779,7 @@ GameObject:
   - component: {fileID: 899025112}
   m_Layer: 5
   m_Name: Kalimba Button
-  m_TagString: Untagged
+  m_TagString: kalimba
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -21831,7 +21911,7 @@ GameObject:
   - component: {fileID: 899694294}
   m_Layer: 5
   m_Name: Guitar Button
-  m_TagString: Untagged
+  m_TagString: guitar
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -22755,7 +22835,7 @@ GameObject:
   - component: {fileID: 929985933}
   m_Layer: 5
   m_Name: 'Dizi  Button '
-  m_TagString: Untagged
+  m_TagString: DiziButton
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -23226,11 +23306,11 @@ GameObject:
   - component: {fileID: 950767050}
   m_Layer: 5
   m_Name: Piano Button
-  m_TagString: Untagged
+  m_TagString: PianoButton
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!224 &950767049
 RectTransform:
   m_ObjectHideFlags: 0
@@ -23359,7 +23439,7 @@ GameObject:
   - component: {fileID: 953672011}
   m_Layer: 5
   m_Name: Flute Button
-  m_TagString: Untagged
+  m_TagString: FluteButton
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -23830,7 +23910,7 @@ GameObject:
   - component: {fileID: 965022685}
   m_Layer: 5
   m_Name: Trumpet Button
-  m_TagString: Untagged
+  m_TagString: trumpet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -24475,7 +24555,7 @@ GameObject:
   - component: {fileID: 991997053}
   m_Layer: 5
   m_Name: Clave Button
-  m_TagString: Untagged
+  m_TagString: ClaveButton
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -25816,7 +25896,7 @@ GameObject:
   - component: {fileID: 1035907503}
   m_Layer: 5
   m_Name: 'Dizi  Button '
-  m_TagString: Untagged
+  m_TagString: DiziButton
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -25949,7 +26029,7 @@ GameObject:
   - component: {fileID: 1038330354}
   m_Layer: 5
   m_Name: Antara Button
-  m_TagString: Untagged
+  m_TagString: AntaraButton
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -26194,7 +26274,7 @@ GameObject:
   - component: {fileID: 1054051674}
   m_Layer: 5
   m_Name: Antara Button
-  m_TagString: Untagged
+  m_TagString: AntaraButton
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -28101,7 +28181,7 @@ GameObject:
   - component: {fileID: 1126969215}
   m_Layer: 5
   m_Name: 'Dizi  Button '
-  m_TagString: Untagged
+  m_TagString: DiziButton
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -28799,7 +28879,7 @@ GameObject:
   - component: {fileID: 1142375423}
   m_Layer: 5
   m_Name: Flute Button
-  m_TagString: Untagged
+  m_TagString: FluteButton
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -30298,7 +30378,7 @@ GameObject:
   - component: {fileID: 1221409202}
   m_Layer: 5
   m_Name: Mandole Button
-  m_TagString: Untagged
+  m_TagString: mandole
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -30544,7 +30624,7 @@ GameObject:
   - component: {fileID: 1230322611}
   m_Layer: 5
   m_Name: Flute Button
-  m_TagString: Untagged
+  m_TagString: FluteButton
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -32042,7 +32122,7 @@ GameObject:
   - component: {fileID: 1295029723}
   m_Layer: 5
   m_Name: Trumpet Button
-  m_TagString: Untagged
+  m_TagString: TrumpetButton
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -33574,7 +33654,7 @@ GameObject:
   - component: {fileID: 1349030263}
   m_Layer: 5
   m_Name: Kalimba Button
-  m_TagString: Untagged
+  m_TagString: KalimbaButton
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -33819,7 +33899,7 @@ GameObject:
   - component: {fileID: 1371563442}
   m_Layer: 5
   m_Name: Antara Button
-  m_TagString: Untagged
+  m_TagString: AntaraButton
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -34483,7 +34563,7 @@ GameObject:
   - component: {fileID: 1382609765}
   m_Layer: 5
   m_Name: Guitar Button
-  m_TagString: Untagged
+  m_TagString: GuitarButton
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -34955,7 +35035,7 @@ GameObject:
   - component: {fileID: 1400391024}
   m_Layer: 5
   m_Name: Trumpet Button
-  m_TagString: Untagged
+  m_TagString: TrumpetButton
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -35279,7 +35359,7 @@ GameObject:
   - component: {fileID: 1404009706}
   m_Layer: 5
   m_Name: Clave Button
-  m_TagString: Untagged
+  m_TagString: ClaveButton
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -35412,7 +35492,7 @@ GameObject:
   - component: {fileID: 1408597452}
   m_Layer: 5
   m_Name: Mandole Button
-  m_TagString: Untagged
+  m_TagString: MandoleButton
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -36336,7 +36416,7 @@ GameObject:
   - component: {fileID: 1429333400}
   m_Layer: 5
   m_Name: Antara Button
-  m_TagString: Untagged
+  m_TagString: AntaraButton
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -36455,6 +36535,49 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1429333398}
   m_CullTransparentMesh: 1
+--- !u!1 &1430776005
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1430776007}
+  - component: {fileID: 1430776006}
+  m_Layer: 0
+  m_Name: backInstruments
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &1430776006
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1430776005}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 83a460c31fbde40d796202cef4419716, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!4 &1430776007
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1430776005}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -0.7256603, y: 0.30362064, z: 53.577984}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 5
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1442212532
 GameObject:
   m_ObjectHideFlags: 0
@@ -36469,7 +36592,7 @@ GameObject:
   - component: {fileID: 1442212534}
   m_Layer: 5
   m_Name: Clave Button
-  m_TagString: Untagged
+  m_TagString: clave
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -36602,7 +36725,7 @@ GameObject:
   - component: {fileID: 1445579336}
   m_Layer: 5
   m_Name: Clave Button
-  m_TagString: Untagged
+  m_TagString: ClaveButton
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -37401,7 +37524,7 @@ GameObject:
   - component: {fileID: 1467431102}
   m_Layer: 5
   m_Name: Antara Button
-  m_TagString: Untagged
+  m_TagString: AntaraButton
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -37838,7 +37961,7 @@ GameObject:
   - component: {fileID: 1489694896}
   m_Layer: 5
   m_Name: Trumpet Button
-  m_TagString: Untagged
+  m_TagString: TrumpetButton
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -39740,7 +39863,7 @@ GameObject:
   - component: {fileID: 1585165741}
   m_Layer: 5
   m_Name: Guitar Button
-  m_TagString: Untagged
+  m_TagString: GuitarButton
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -40663,7 +40786,7 @@ GameObject:
   - component: {fileID: 1636924553}
   m_Layer: 5
   m_Name: Guitar Button
-  m_TagString: Untagged
+  m_TagString: GuitarButton
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -41247,7 +41370,7 @@ GameObject:
   - component: {fileID: 1650091125}
   m_Layer: 5
   m_Name: Sitar Button
-  m_TagString: Untagged
+  m_TagString: SitarButton
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -41606,7 +41729,7 @@ GameObject:
   - component: {fileID: 1653518712}
   m_Layer: 5
   m_Name: Kalimba Button
-  m_TagString: Untagged
+  m_TagString: KalimbaButton
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -42755,7 +42878,7 @@ GameObject:
   - component: {fileID: 1689429878}
   m_Layer: 5
   m_Name: Mandole Button
-  m_TagString: Untagged
+  m_TagString: MandoleButton
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -43001,7 +43124,7 @@ GameObject:
   - component: {fileID: 1698623312}
   m_Layer: 5
   m_Name: Clave Button
-  m_TagString: Untagged
+  m_TagString: ClaveButton
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -43863,6 +43986,139 @@ CanvasRenderer:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1736748765}
+  m_CullTransparentMesh: 1
+--- !u!1 &1737921190
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1737921191}
+  - component: {fileID: 1737921194}
+  - component: {fileID: 1737921193}
+  - component: {fileID: 1737921192}
+  m_Layer: 5
+  m_Name: Button
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &1737921191
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1737921190}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 819395252}
+  m_Father: {fileID: 771193173}
+  m_RootOrder: 10
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: -510, y: 322}
+  m_SizeDelta: {x: 160, y: 30}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &1737921192
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1737921190}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Navigation:
+    m_Mode: 3
+    m_WrapAround: 0
+    m_SelectOnUp: {fileID: 0}
+    m_SelectOnDown: {fileID: 0}
+    m_SelectOnLeft: {fileID: 0}
+    m_SelectOnRight: {fileID: 0}
+  m_Transition: 1
+  m_Colors:
+    m_NormalColor: {r: 1, g: 1, b: 1, a: 1}
+    m_HighlightedColor: {r: 0.9607843, g: 0.9607843, b: 0.9607843, a: 1}
+    m_PressedColor: {r: 0.78431374, g: 0.78431374, b: 0.78431374, a: 1}
+    m_SelectedColor: {r: 0.9607843, g: 0.9607843, b: 0.9607843, a: 1}
+    m_DisabledColor: {r: 0.78431374, g: 0.78431374, b: 0.78431374, a: 0.5019608}
+    m_ColorMultiplier: 1
+    m_FadeDuration: 0.1
+  m_SpriteState:
+    m_HighlightedSprite: {fileID: 0}
+    m_PressedSprite: {fileID: 0}
+    m_SelectedSprite: {fileID: 0}
+    m_DisabledSprite: {fileID: 0}
+  m_AnimationTriggers:
+    m_NormalTrigger: Normal
+    m_HighlightedTrigger: Highlighted
+    m_PressedTrigger: Pressed
+    m_SelectedTrigger: Selected
+    m_DisabledTrigger: Disabled
+  m_Interactable: 1
+  m_TargetGraphic: {fileID: 1737921193}
+  m_OnClick:
+    m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 1430776006}
+        m_TargetAssemblyTypeName: goBackInst, Assembly-CSharp
+        m_MethodName: OnButtonPress
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+--- !u!114 &1737921193
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1737921190}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_RaycastTarget: 1
+  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
+  m_Maskable: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  m_Sprite: {fileID: 10905, guid: 0000000000000000f000000000000000, type: 0}
+  m_Type: 1
+  m_PreserveAspect: 0
+  m_FillCenter: 1
+  m_FillMethod: 4
+  m_FillAmount: 1
+  m_FillClockwise: 1
+  m_FillOrigin: 0
+  m_UseSpriteMesh: 0
+  m_PixelsPerUnitMultiplier: 1
+--- !u!222 &1737921194
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1737921190}
   m_CullTransparentMesh: 1
 --- !u!1 &1739833943
 GameObject:
@@ -44956,7 +45212,7 @@ GameObject:
   - component: {fileID: 1765423726}
   m_Layer: 5
   m_Name: Mandole Button
-  m_TagString: Untagged
+  m_TagString: MandoleButton
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -45168,7 +45424,7 @@ GameObject:
   - component: {fileID: 1774231711}
   m_Layer: 5
   m_Name: Kalimba Button
-  m_TagString: Untagged
+  m_TagString: KalimbaButton
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -45413,7 +45669,7 @@ GameObject:
   - component: {fileID: 1785260778}
   m_Layer: 5
   m_Name: Piano Button
-  m_TagString: Untagged
+  m_TagString: PianoButton
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -46290,7 +46546,7 @@ GameObject:
   - component: {fileID: 1828255380}
   m_Layer: 5
   m_Name: 'Dizi  Button '
-  m_TagString: Untagged
+  m_TagString: DiziButton
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -47169,7 +47425,7 @@ GameObject:
   - component: {fileID: 1883820494}
   m_Layer: 5
   m_Name: Piano Button
-  m_TagString: Untagged
+  m_TagString: PianoButton
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -47640,7 +47896,7 @@ GameObject:
   - component: {fileID: 1892669771}
   m_Layer: 5
   m_Name: Sitar Button
-  m_TagString: Untagged
+  m_TagString: SitarButton
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -47885,7 +48141,7 @@ GameObject:
   - component: {fileID: 1905487393}
   m_Layer: 5
   m_Name: Piano Button
-  m_TagString: Untagged
+  m_TagString: PianoButton
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -48424,7 +48680,7 @@ GameObject:
   - component: {fileID: 1915476627}
   m_Layer: 5
   m_Name: Guitar Button
-  m_TagString: Untagged
+  m_TagString: GuitarButton
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -48669,7 +48925,7 @@ GameObject:
   - component: {fileID: 1919092545}
   m_Layer: 5
   m_Name: Piano Button
-  m_TagString: Untagged
+  m_TagString: PianoButton
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -49028,7 +49284,7 @@ GameObject:
   - component: {fileID: 1928145721}
   m_Layer: 5
   m_Name: Flute Button
-  m_TagString: Untagged
+  m_TagString: flute
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -50285,7 +50541,7 @@ GameObject:
   - component: {fileID: 1980405766}
   m_Layer: 5
   m_Name: Flute Button
-  m_TagString: Untagged
+  m_TagString: FluteButton
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -51219,7 +51475,7 @@ GameObject:
   - component: {fileID: 2016603015}
   m_Layer: 5
   m_Name: Kalimba Button
-  m_TagString: Untagged
+  m_TagString: KalimbaButton
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -51351,7 +51607,7 @@ GameObject:
   - component: {fileID: 2019826526}
   m_Layer: 5
   m_Name: Piano Button
-  m_TagString: Untagged
+  m_TagString: PianoButton
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -51710,7 +51966,7 @@ GameObject:
   - component: {fileID: 2037665703}
   m_Layer: 5
   m_Name: Piano Button
-  m_TagString: Untagged
+  m_TagString: PianoButton
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -51955,7 +52211,7 @@ GameObject:
   - component: {fileID: 2041345966}
   m_Layer: 5
   m_Name: Antara Button
-  m_TagString: Untagged
+  m_TagString: AntaraButton
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -52200,7 +52456,7 @@ GameObject:
   - component: {fileID: 2044213060}
   m_Layer: 5
   m_Name: Guitar Button
-  m_TagString: Untagged
+  m_TagString: GuitarButton
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -53010,7 +53266,7 @@ GameObject:
   - component: {fileID: 2067693129}
   m_Layer: 5
   m_Name: Piano Button
-  m_TagString: Untagged
+  m_TagString: PianoButton
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -53142,7 +53398,7 @@ GameObject:
   - component: {fileID: 2068694208}
   m_Layer: 5
   m_Name: Sitar Button
-  m_TagString: Untagged
+  m_TagString: SitarButton
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -53998,7 +54254,7 @@ GameObject:
   - component: {fileID: 2098816536}
   m_Layer: 5
   m_Name: Flute Button
-  m_TagString: Untagged
+  m_TagString: FluteButton
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -54243,7 +54499,7 @@ GameObject:
   - component: {fileID: 2108096284}
   m_Layer: 5
   m_Name: Guitar Button
-  m_TagString: Untagged
+  m_TagString: GuitarButton
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -54488,7 +54744,7 @@ GameObject:
   - component: {fileID: 2117544417}
   m_Layer: 5
   m_Name: Clave Button
-  m_TagString: Untagged
+  m_TagString: ClaveButton
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
